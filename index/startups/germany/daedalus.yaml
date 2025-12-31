@@ -1,0 +1,15 @@
+id: daedalus
+name: Daedalus
+website: https://daedalus.de
+founded_year: 2019
+description: Software-defined factories for precision parts manufacturing.
+industries:
+- Manufacturing
+technologies:
+- Software-defined Manufacturing
+headquarters:
+  city: Karlsruhe
+  country_code: DE
+  region: Baden-Württemberg
+funding:
+  total_raised_usd: 14700000

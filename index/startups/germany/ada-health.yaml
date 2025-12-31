@@ -1,0 +1,16 @@
+id: ada-health
+name: Ada Health
+website: https://ada.com
+founded_year: 2011
+description: AI-powered symptom checker app used by millions globally.
+industries:
+- Healthcare
+technologies:
+- Symptom Assessment
+- AI
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 190000000

@@ -1,0 +1,18 @@
+id: mirelo-ai
+name: Mirelo AI
+website: https://mirelo.ai
+founded_year: 2023
+description: Generates production-ready sound effects from video inputs using multimodal
+  AI.
+industries:
+- Media
+- Audio
+technologies:
+- Multimodal AI
+- Generative AI
+headquarters:
+  city: Tübingen
+  country_code: DE
+  region: Baden-Württemberg
+funding:
+  total_raised_usd: 41000000

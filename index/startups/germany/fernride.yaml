@@ -1,0 +1,16 @@
+id: fernride
+name: Fernride
+website: https://fernride.com
+founded_year: 2019
+description: Human-assisted autonomy for yard trucking, allowing remote takeover.
+industries:
+- Logistics
+technologies:
+- Teleoperation
+- Autonomous Driving
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 60000000

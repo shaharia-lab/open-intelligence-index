@@ -1,0 +1,16 @@
+id: taxfix
+name: Taxfix
+website: https://taxfix.de
+founded_year: 2016
+description: Mobile tax filing app using logic trees and AI to simplify tax returns.
+industries:
+- Fintech
+technologies:
+- Logic Trees
+- AI
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 330000000

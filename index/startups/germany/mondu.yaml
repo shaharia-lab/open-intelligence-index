@@ -1,0 +1,15 @@
+id: mondu
+name: Mondu
+website: https://mondu.ai
+founded_year: 2021
+description: B2B Buy-Now-Pay-Later payment solutions.
+industries:
+- Fintech
+technologies:
+- B2B Payments
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 90000000

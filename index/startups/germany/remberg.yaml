@@ -1,0 +1,15 @@
+id: remberg
+name: Remberg
+website: https://remberg.io
+founded_year: 2018
+description: XRM platform helping manufacturers digitize their installed base.
+industries:
+- Asset Management
+technologies:
+- XRM
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 17500000

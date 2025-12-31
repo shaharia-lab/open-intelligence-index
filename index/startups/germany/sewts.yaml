@@ -1,0 +1,19 @@
+id: sewts
+name: Sewts
+website: https://sewts.com
+founded_year: 2019
+description: Developing the brain for industrial robots to handle deformable materials.
+long_description: Their first product automates industrial laundry folding by enabling
+  robots to handle textiles.
+industries:
+- Robotics
+- Textile
+technologies:
+- Computer Vision
+- Robotics
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 7560000

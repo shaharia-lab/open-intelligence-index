@@ -1,0 +1,17 @@
+id: proxima-fusion
+name: Proxima Fusion
+website: https://proximafusion.com
+founded_year: 2023
+description: Developing fusion power plants using stellarators and AI simulation.
+industries:
+- Energy
+- DeepTech
+technologies:
+- Fusion Simulation
+- Stellarators
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 200000000

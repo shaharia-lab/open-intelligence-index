@@ -1,0 +1,17 @@
+id: robco
+name: RobCo
+website: https://robco.de
+founded_year: 2020
+description: Provides modular, affordable robots for SMEs via a Robot-as-a-Service
+  model.
+industries:
+- Robotics
+- Manufacturing
+technologies:
+- Modular Robotics
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 18000000

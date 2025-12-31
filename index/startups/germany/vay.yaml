@@ -1,0 +1,16 @@
+id: vay
+name: Vay
+website: https://vay.io
+founded_year: 2018
+description: Teledriving technology enabling driverless mobility services.
+industries:
+- Mobility
+technologies:
+- Teledriving
+- Remote Operation
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 60000000

@@ -1,0 +1,16 @@
+id: micropsi-industries
+name: Micropsi Industries
+website: https://micropsi-industries.com
+founded_year: 2014
+description: AI software enabling robots to learn from demonstration and handle variance.
+industries:
+- Robotics
+technologies:
+- Reinforcement Learning
+- Computer Vision
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 30000000

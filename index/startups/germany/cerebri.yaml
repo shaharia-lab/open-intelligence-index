@@ -1,0 +1,13 @@
+id: cerebri
+name: Cerebri
+website: https://cerebrihealth.com
+founded_year: 2023
+description: AI-enhanced EEG diagnostics for rapid brain activity assessment.
+industries:
+- Healthcare
+technologies:
+- EEG Diagnostics
+headquarters:
+  city: Tübingen
+  country_code: DE
+  region: Baden-Württemberg

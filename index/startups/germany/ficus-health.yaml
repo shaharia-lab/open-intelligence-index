@@ -1,0 +1,14 @@
+id: ficus-health
+name: Ficus Health
+website: https://ficus-health.com
+founded_year: 2023
+description: Automates medical documentation and discharge letters for rehabilitation
+  clinics.
+industries:
+- Healthcare
+technologies:
+- Administrative Automation
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin

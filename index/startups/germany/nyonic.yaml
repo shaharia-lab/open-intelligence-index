@@ -1,0 +1,16 @@
+id: nyonic
+name: Nyonic
+website: https://nyonic.ai
+founded_year: 2023
+description: Developing foundational models specifically tailored for industrial applications.
+long_description: Nyonic focuses on multilingual capabilities and domain-specific
+  accuracy for manufacturing and engineering.
+industries:
+- Industrial
+technologies:
+- LLM
+- Generative AI
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin

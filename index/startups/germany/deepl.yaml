@@ -1,0 +1,23 @@
+id: deepl
+name: DeepL
+website: https://deepl.com
+founded_year: 2017
+description: Widely regarded as the world's most accurate machine translation system.
+long_description: DeepL has expanded into AI writing assistance (DeepL Write), leveraging
+  proprietary neural networks that outperform major tech competitors.
+industries:
+- Translation
+technologies:
+- NLP
+- Neural Networks
+headquarters:
+  city: Cologne
+  country_code: DE
+  region: North Rhine-Westphalia
+funding:
+  total_raised_usd: 400000000
+  last_round: Late Stage
+  investors:
+  - Benchmark
+  - IVP
+  - Index Ventures

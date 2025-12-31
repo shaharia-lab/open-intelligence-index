@@ -1,0 +1,16 @@
+id: deepdrive
+name: DeepDrive
+website: https://deepdrive.tech
+founded_year: 2021
+description: Innovative electric motor technology optimized with AI simulation.
+industries:
+- Automotive
+technologies:
+- Electric Motors
+- Simulation
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 30000000

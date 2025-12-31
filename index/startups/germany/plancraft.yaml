@@ -1,0 +1,18 @@
+id: plancraft
+name: Plancraft
+website: https://plancraft.com
+founded_year: 2020
+description: SaaS platform for craftsmen and contractors to digitize administrative
+  workflows.
+industries:
+- SaaS
+- Construction
+technologies:
+- Administrative Automation
+headquarters:
+  city: Hamburg
+  country_code: DE
+  region: Hamburg
+funding:
+  total_raised_usd: 52000000
+  last_round: Series B

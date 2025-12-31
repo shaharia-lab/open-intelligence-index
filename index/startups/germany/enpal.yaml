@@ -1,0 +1,16 @@
+id: enpal
+name: Enpal
+website: https://enpal.com
+founded_year: 2017
+description: Solar leasing unicorn building a virtual power plant via AI grid management.
+industries:
+- Energy
+technologies:
+- Virtual Power Plant
+- AI Grid Management
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 2000000000

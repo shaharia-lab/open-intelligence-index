@@ -1,0 +1,18 @@
+id: quantum-systems
+name: Quantum Systems
+website: https://quantum-systems.com
+founded_year: 2015
+description: Develops AI-powered eVTOL drones for aerial intelligence.
+industries:
+- Defense
+- Aviation
+technologies:
+- Drones
+- eVTOL
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 388000000
+  last_round: Series B

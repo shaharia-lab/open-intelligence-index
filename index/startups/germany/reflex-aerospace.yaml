@@ -1,0 +1,15 @@
+id: reflex-aerospace
+name: Reflex Aerospace
+website: https://reflexaerospace.com
+founded_year: 2021
+description: Designing high-performance satellites tailored for rapid manufacturing.
+industries:
+- SpaceTech
+technologies:
+- Satellite Hardware
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 65000000

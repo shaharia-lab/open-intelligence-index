@@ -1,0 +1,16 @@
+id: dealfront
+name: Dealfront
+website: https://dealfront.com
+founded_year: 2011
+description: Go-to-market platform offering B2B data, sales signals, and lead generation.
+industries:
+- Sales
+technologies:
+- Sales Intelligence
+- Lead Generation
+headquarters:
+  city: Karlsruhe
+  country_code: DE
+  region: Baden-Württemberg
+funding:
+  total_raised_usd: 30000000

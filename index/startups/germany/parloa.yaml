@@ -1,0 +1,16 @@
+id: parloa
+name: Parloa
+website: https://parloa.com
+founded_year: 2017
+description: Automating customer service via phone and chat using Generative AI.
+industries:
+- Customer Service
+technologies:
+- Conversational AI
+- Generative AI
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 212000000

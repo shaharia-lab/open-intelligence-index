@@ -1,0 +1,19 @@
+id: cognigy
+name: Cognigy
+website: https://cognigy.com
+founded_year: 2016
+description: Enterprise conversational AI platform for contact centers.
+long_description: Recognized globally for low-code flow management and enterprise-grade
+  conversational AI.
+industries:
+- Customer Service
+- Enterprise
+technologies:
+- Conversational AI
+- Low-code
+headquarters:
+  city: Düsseldorf
+  country_code: DE
+  region: North Rhine-Westphalia
+funding:
+  total_raised_usd: 169000000

@@ -1,0 +1,17 @@
+id: flix
+name: Flix
+website: https://flixbus.com
+founded_year: 2011
+description: Global mobility provider using advanced AI algorithms for network planning.
+industries:
+- Mobility
+technologies:
+- Route Optimization
+- Dynamic Pricing
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 1220000000
+  last_round: Late Stage

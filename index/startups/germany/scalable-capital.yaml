@@ -1,0 +1,16 @@
+id: scalable-capital
+name: Scalable Capital
+website: https://scalable.capital
+founded_year: 2014
+description: Neo-broker and robo-advisor using algorithms for portfolio management.
+industries:
+- Fintech
+technologies:
+- Robo-advisor
+- Algorithmic Trading
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 481000000

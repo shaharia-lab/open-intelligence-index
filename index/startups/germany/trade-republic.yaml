@@ -1,0 +1,15 @@
+id: trade-republic
+name: Trade Republic
+website: https://traderepublic.com
+founded_year: 2015
+description: Commission-free broker using data analytics to optimize trading execution.
+industries:
+- Fintech
+technologies:
+- Data Analytics
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 1000000000

@@ -1,0 +1,16 @@
+id: differential-bio
+name: Differential Bio
+website: https://differential.bio
+founded_year: 2023
+description: Virtual Scale-up Platform integrating advanced microbiology and AI.
+industries:
+- BioTech
+technologies:
+- Bioprocess Simulation
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 2100000
+  last_round: Pre-Seed

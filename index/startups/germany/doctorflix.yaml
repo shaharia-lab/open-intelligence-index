@@ -1,0 +1,17 @@
+id: doctorflix
+name: Doctorflix
+website: https://doctorflix.de
+founded_year: 2022
+description: AI-driven platform for medical education and continuous learning for
+  physicians.
+industries:
+- EdTech
+- Healthcare
+technologies:
+- AI Education
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 2000000
