@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: overstory
+name: Overstory
+website: https://www.overstory.com
+founded_year: 2018
+description: Vegetation intelligence platform using satellite data and AI.
+long_description: Overstory applies AI to satellite imagery to monitor vegetation
+  near power lines. This helps electric utilities prevent wildfires and outages by
+  identifying high-risk areas globally.
+industries:
+- ClimateTech
+- Energy
+- Infrastructure
+technologies:
+- Computer Vision
+- Remote Sensing
+- Predictive Analytics
+headquarters:
+  city: Amsterdam
+  country_code: NL
+  region: North Holland
+funding:
+  total_raised_usd: 57000000
+  last_round: Series B
+open_source:
+  active: true
+  github_org: https://github.com/20treeAI

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: nearfield-instruments
+name: Nearfield Instruments
+website: https://www.nearfieldinstruments.com
+founded_year: 2016
+description: Atomic-scale 3D metrology solutions for the semiconductor industry.
+long_description: A spin-off from TNO, Nearfield Instruments develops high-throughput
+  Scanning Probe Microscopy (SPM) for non-destructive, atom-scale 3D measurement of
+  complex chip structures.
+industries:
+- Semiconductors
+- Deep Tech
+- Metrology
+technologies:
+- Scanning Probe Microscopy
+- Atomic-scale Metrology
+headquarters:
+  city: Rotterdam
+  country_code: NL
+  region: South Holland
+funding:
+  total_raised_usd: 169000000
+  last_round: Series C

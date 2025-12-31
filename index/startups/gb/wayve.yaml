@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: wayve
+name: Wayve
+website: https://wayve.ai
+founded_year: 2017
+description: Pioneer of AV2.0 end-to-end deep learning for autonomous vehicles.
+long_description: Wayve employs end-to-end deep learning to train foundation models for
+  driving, eschewing HD maps and rule-based coding. Their technology learns to perceive
+  and act from raw video data, allowing it to generalize to new environments.
+industries:
+- Autonomous Vehicles
+- Embodied AI
+- Transport
+technologies:
+- End-to-End Deep Learning
+- Computer Vision
+- Reinforcement Learning
+headquarters:
+  city: London
+  country_code: GB
+funding:
+  total_raised_usd: 1050000000
+  last_round: Series C
+  investors:
+  - SoftBank
+  - NVIDIA
+  - Microsoft

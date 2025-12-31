@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: owkin
+name: Owkin
+website: https://www.owkin.com
+founded_year: 2016
+description: AI-driven biotechnology company using federated learning for drug discovery.
+long_description: Owkin utilizes Federated Learning to train AI models on patient
+  data across distributed hospital networks without compromising privacy. Their platform,
+  Owkin Socrates, focuses on improving drug discovery and clinical trial outcomes
+  in oncology and immunology.
+industries:
+- HealthTech
+- Biotechnology
+- Life Sciences
+technologies:
+- Federated Learning
+- Machine Learning
+- Privacy-Preserving AI
+headquarters:
+  city: Paris
+  country_code: FR
+funding:
+  total_raised_usd: 321000000
+  last_round: Series B
+  investors:
+  - Sanofi
+  - Bristol Myers Squibb
+  - Google Ventures
+  - Bpifrance

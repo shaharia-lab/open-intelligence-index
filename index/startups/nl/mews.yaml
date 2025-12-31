@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: mews
+name: Mews
+website: https://www.mews.com
+founded_year: 2012
+description: Cloud-native hospitality system leveraging autonomous AI agents.
+long_description: Mews provides a property management system for the hospitality industry.
+  In 2025, it pivoted to an AI-first strategy, launching autonomous agents that manage
+  revenue, guest requests, and housekeeping without human oversight.
+industries:
+- Hospitality
+- SaaS
+- PropTech
+technologies:
+- Agentic AI
+- Autonomous Agents
+- Predictive Analytics
+headquarters:
+  city: Amsterdam
+  country_code: NL
+  region: North Holland
+funding:
+  total_raised_usd: 410000000
+  last_round: Series D

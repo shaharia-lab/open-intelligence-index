@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: quantexa
+name: Quantexa
+website: https://www.quantexa.com
+founded_year: 2016
+description: Contextual Decision Intelligence platform for risk and compliance.
+long_description: Quantexa specializes in Entity Resolution, connecting disparate data points
+  to detect fraud and financial crime. Their platform serves banking, insurance, and public
+  sector clients globally.
+industries:
+- FinTech
+- Risk Management
+- Decision Intelligence
+technologies:
+- Entity Resolution
+- Big Data Analytics
+- Network Analysis
+headquarters:
+  city: London
+  country_code: GB
+funding:
+  total_raised_usd: 175000000
+  last_round: Series F
+  investors:
+  - Teachers' Venture Growth
