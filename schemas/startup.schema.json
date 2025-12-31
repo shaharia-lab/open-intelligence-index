@@ -1,0 +1,142 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json",
+  "title": "Open Intelligence Index - Startup Schema",
+  "description": "Schema for indexing AI products, services, startups, and businesses. This schema defines the structure for company profile entries in the Open Intelligence Index.",
+  "type": "object",
+  "required": ["id", "name", "website", "founded_year", "description", "industries", "technologies", "headquarters"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug identifier (e.g., 'aleph-alpha'). Should match the filename.",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Legal or Trading Name of the company."
+    },
+    "website": {
+      "type": "string",
+      "description": "Homepage URL.",
+      "format": "uri",
+      "pattern": "^https?://"
+    },
+    "logo_url": {
+      "type": "string",
+      "description": "Path to logo (remote or local).",
+      "format": "uri"
+    },
+    "founded_year": {
+      "type": "integer",
+      "description": "Year the company was founded (YYYY format).",
+      "minimum": 1900,
+      "maximum": 2100
+    },
+    "description": {
+      "type": "string",
+      "description": "A short, one-sentence pitch describing the company."
+    },
+    "long_description": {
+      "type": "string",
+      "description": "A longer paragraph explaining what they do, their unique selling point, and their core technology."
+    },
+    "industries": {
+      "type": "array",
+      "description": "Primary vertical focus areas for filtering and categorization.",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "technologies": {
+      "type": "array",
+      "description": "Core AI technologies used or developed.",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "headquarters": {
+      "type": "object",
+      "description": "Location details of company headquarters.",
+      "required": ["city", "country_code"],
+      "properties": {
+        "city": {
+          "type": "string",
+          "description": "City where the company is headquartered."
+        },
+        "country_code": {
+          "type": "string",
+          "description": "ISO 3166-1 alpha-2 country code (e.g., 'DE' for Germany, 'US' for United States).",
+          "pattern": "^[A-Z]{2}$"
+        },
+        "region": {
+          "type": "string",
+          "description": "State, province, or region (helpful for regional analysis, e.g., 'Baden-Württemberg', 'California')."
+        }
+      }
+    },
+    "funding": {
+      "type": "object",
+      "description": "Financial information about the company.",
+      "properties": {
+        "total_raised_usd": {
+          "type": "integer",
+          "description": "Total funding raised in USD (use integers for easier sorting).",
+          "minimum": 0
+        },
+        "last_round": {
+          "type": "string",
+          "description": "Last funding round (e.g., 'Series B', 'Seed')."
+        },
+        "investors": {
+          "type": "array",
+          "description": "Key backers and investors.",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "open_source": {
+      "type": "object",
+      "description": "Open source presence and activity.",
+      "properties": {
+        "active": {
+          "type": "boolean",
+          "description": "Whether the company has open source repositories."
+        },
+        "github_org": {
+          "type": "string",
+          "description": "GitHub organization URL.",
+          "format": "uri",
+          "pattern": "^https://github\\.com/"
+        },
+        "huggingface_org": {
+          "type": "string",
+          "description": "HuggingFace organization URL.",
+          "format": "uri",
+          "pattern": "^https://huggingface\\.co/"
+        }
+      }
+    },
+    "socials": {
+      "type": "object",
+      "description": "Social media links.",
+      "properties": {
+        "linkedin": {
+          "type": "string",
+          "description": "LinkedIn company page URL.",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "twitter": {
+          "type": "string",
+          "description": "Twitter/X profile URL.",
+          "format": "uri",
+          "pattern": "^https://"
+        }
+      }
+    }
+  }
+}
