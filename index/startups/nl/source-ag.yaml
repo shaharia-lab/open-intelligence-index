@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: source-ag
+name: Source.ag
+website: https://www.source.ag
+founded_year: 2020
+description: AgTech company developing AI models to optimize greenhouse agriculture.
+long_description: Source.ag creates digital twins of greenhouses to simulate plant
+  biology and climate conditions. Their 'AI Grower' platform optimizes resource usage
+  and maximizes yield for sustainable food production.
+industries:
+- AgTech
+- Sustainability
+- FoodTech
+technologies:
+- Digital Twins
+- Predictive Analytics
+- Simulation
+headquarters:
+  city: Amsterdam
+  country_code: NL
+  region: North Holland
+funding:
+  total_raised_usd: 60000000
+  last_round: Series B

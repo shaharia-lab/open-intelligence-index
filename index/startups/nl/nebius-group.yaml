@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: nebius-group
+name: Nebius Group
+website: https://nebius.com
+founded_year: 2023
+description: A dedicated AI cloud provider building hyperscale-grade GPU infrastructure.
+long_description: Headquartered in Amsterdam and listed on NASDAQ, Nebius is an infrastructure-focused
+  AI cloud provider. They design proprietary server architecture and manage large-scale
+  clusters optimized for LLM training and inference, positioning themselves as a GDPR-compliant
+  alternative to US hyperscalers.
+industries:
+- Cloud Infrastructure
+- Deep Tech
+technologies:
+- GPU Cloud
+- LLM
+- HPC
+- Kubernetes
+headquarters:
+  city: Amsterdam
+  country_code: NL
+  region: North Holland
+funding:
+  total_raised_usd: 1700000000
+  last_round: Post-IPO Equity
+  investors:
+  - NVIDIA
+  - Accel
+open_source:
+  active: true
+  github_org: https://github.com/nebius
+  huggingface_org: https://huggingface.co/nebius
