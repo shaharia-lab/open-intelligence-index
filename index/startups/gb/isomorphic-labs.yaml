@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: isomorphic-labs
+name: Isomorphic Labs
+website: https://www.isomorphiclabs.com
+founded_year: 2021
+description: AI-driven drug discovery and biological modeling.
+long_description: A subsidiary of Alphabet, Isomorphic Labs uses AI to model biological
+  phenomena and design novel molecules, building on the breakthroughs of AlphaFold to
+  revolutionize the pharmaceutical industry.
+industries:
+- Life Sciences
+- HealthTech
+- Biotech
+technologies:
+- Biological Modeling
+- Deep Learning
+- Computational Chemistry
+headquarters:
+  city: London
+  country_code: GB
+funding:
+  total_raised_usd: 600000000
+  last_round: Series B
+  investors:
+  - Alphabet
+  - Andreessen Horowitz

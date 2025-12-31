@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: marvelx
+name: MarvelX
+website: https://marvelx.ai
+founded_year: 2023
+description: Agentic AI platform automating complex workflows for the insurance industry.
+long_description: MarvelX builds an agentic AI backbone for insurance, employing intelligent
+  agents to automate claims processing and other operational workflows that traditionally
+  require manual reasoning.
+industries:
+- InsurTech
+- FinTech
+technologies:
+- Agentic AI
+- Process Automation
+headquarters:
+  city: Amsterdam
+  country_code: NL
+  region: North Holland
+funding:
+  total_raised_usd: 6000000
+  last_round: Seed
+  investors:
+  - EQT Ventures

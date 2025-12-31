@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: xapien
+name: Xapien
+website: https://xapien.com
+founded_year: 2018
+description: Automated due diligence and background research platform.
+long_description: Xapien uses AI and NLP to automate deep-dive research for legal and
+  wealth management sectors, scanning millions of records to produce due diligence
+  reports in minutes.
+industries:
+- LegalTech
+- Risk Management
+- Compliance
+technologies:
+- Natural Language Processing
+- Automated Research
+headquarters:
+  city: London
+  country_code: GB
+funding:
+  total_raised_usd: 10000000
+  last_round: Series A

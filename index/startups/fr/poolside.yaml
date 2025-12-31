@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: poolside
+name: Poolside
+website: https://poolside.ai
+founded_year: 2023
+description: Building a stack-aware foundation model to automate software engineering.
+long_description: Founded in the US but relocated to Paris, Poolside is developing
+  a foundation model specifically for software development. Unlike generalist models,
+  Poolside understands entire codebases, aiming to act as an autonomous senior engineer
+  to improve security and efficiency in coding.
+industries:
+- Generative AI
+- Developer Tools
+- Software Engineering
+technologies:
+- Large Language Models
+- Code Intelligence
+- Agentic AI
+headquarters:
+  city: Paris
+  country_code: FR
+funding:
+  total_raised_usd: 626000000
+  last_round: Series B
+  investors:
+  - Bain Capital Ventures
+  - DST Global
+  - Felicis
+  - NVIDIA

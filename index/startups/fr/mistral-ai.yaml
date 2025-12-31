@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: mistral-ai
+name: Mistral AI
+website: https://mistral.ai
+founded_year: 2023
+description: A pioneering French AI startup democratizing AI through open-weight and
+  proprietary models.
+long_description: Mistral AI is the European flagship challenger to US-based AI labs.
+  It develops high-performance large language models (LLMs) using a strategy that
+  blends open-weight releases with high-performance commercial APIs. The company is
+  a key player in ensuring European technological sovereignty in AI.
+industries:
+- Generative AI
+- Foundation Models
+- Infrastructure
+technologies:
+- Large Language Models
+- Mixture of Experts
+- Open Weights
+headquarters:
+  city: Paris
+  country_code: FR
+funding:
+  total_raised_usd: 3050000000
+  last_round: Series C
+  investors:
+  - ASML
+  - Andreessen Horowitz
+  - Lightspeed Venture Partners
+  - NVIDIA
+  - Bpifrance
+open_source:
+  active: true

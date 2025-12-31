@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: weaviate
+name: Weaviate
+website: https://weaviate.io
+founded_year: 2019
+description: An open-source vector database enabling AI-powered search and RAG applications.
+long_description: Weaviate is a leading vector database that allows developers to
+  build scalable AI applications. It stores data as vector embeddings, enabling semantic
+  search and Retrieval-Augmented Generation (RAG). Its modular architecture allows
+  integration with various machine learning models.
+industries:
+- Infrastructure
+- SaaS
+- Developer Tools
+technologies:
+- Vector Database
+- RAG
+- Machine Learning
+headquarters:
+  city: Amsterdam
+  country_code: NL
+  region: North Holland
+funding:
+  total_raised_usd: 67000000
+  last_round: Series B
+  investors:
+  - Index Ventures
+  - Battery Ventures
+open_source:
+  active: true
+  github_org: https://github.com/weaviate
+  huggingface_org: https://huggingface.co/weaviate

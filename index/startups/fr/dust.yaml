@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: dust
+name: Dust
+website: https://dust.tt
+founded_year: 2023
+description: AI operating system for teams to build customizable knowledge-based assistants.
+long_description: Dust integrates with a company's internal knowledge bases (Notion,
+  Slack, GitHub) to create specialized AI agents. It focuses on breaking down data
+  silos and enhancing team productivity through secure, data-augmented solutions.
+industries:
+- Enterprise Software
+- Productivity
+technologies:
+- Agentic AI
+- Knowledge Retrieval
+- LLM Orchestration
+headquarters:
+  city: Paris
+  country_code: FR
+funding:
+  total_raised_usd: 21500000
+  last_round: Series A
+  investors:
+  - Sequoia Capital
+  - Connect Ventures
+  - Seedcamp

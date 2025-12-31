@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: dexory
+name: Dexory
+website: https://www.dexory.com
+founded_year: 2015
+description: Real-time warehouse intelligence using autonomous robots and digital twins.
+long_description: Dexory combines autonomous mobile robots with a digital twin platform,
+  DexoryView, to provide real-time visibility into inventory and operations, addressing
+  critical supply chain inefficiencies.
+industries:
+- Logistics
+- Robotics
+- Supply Chain
+technologies:
+- Autonomous Mobile Robots (AMRs)
+- Digital Twins
+- Predictive Analytics
+headquarters:
+  city: London
+  country_code: GB
+funding:
+  total_raised_usd: 165000000
+  last_round: Series C
+  investors:
+  - Eurazeo
