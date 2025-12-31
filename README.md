@@ -47,6 +47,7 @@ open-intelligence-index/
 │       └── validate-schema.yml  # CI validation pipeline
 ├── schema.yaml               # Human-readable schema reference
 ├── CONTRIBUTING.md           # Contribution guidelines
+├── DISCLAIMER.md             # Data usage disclaimer
 ├── LICENSE                   # MIT License
 └── README.md                 # This file
 ```
@@ -159,12 +160,14 @@ Be respectful, constructive, and inclusive. We aim to maintain a welcoming commu
 
 ## Disclaimer
 
-**THE DATA IN THIS INDEX IS PROVIDED "AS IS" FOR INFORMATIONAL PURPOSES ONLY.**
+**IMPORTANT**: This is a crowd-sourced database. All data is provided "AS IS" without warranty of any kind.
 
-- **Accuracy**: While we strive for accuracy, we cannot guarantee the completeness or correctness of all information. Companies change frequently, and data may become outdated.
-- **Not Investment Advice**: This index should not be used as the basis for investment decisions. Always conduct your own due diligence.
-- **Not Endorsement**: Inclusion in this index does not constitute an endorsement of any company, product, or service.
-- **No Affiliation**: This project is not affiliated with any company listed herein.
+**Please read our full [DISCLAIMER.md](DISCLAIMER.md) before using this data.** Key points:
+
+- Data is submitted by community volunteers and not independently verified
+- You must independently verify all information before use
+- Not responsible for inaccuracies, errors, or outdated information
+- Inclusion does not constitute endorsement or recommendation
 
 ## Data Sources
 
