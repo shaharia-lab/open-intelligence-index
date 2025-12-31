@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: nabla
+name: Nabla
+website: https://www.nabla.com
+founded_year: 2018
+description: AI-powered clinical documentation assistant for healthcare providers.
+long_description: Nabla provides an ambient AI assistant that listens to patient consultations
+  and automatically generates clinical notes, reducing administrative burden for clinicians.
+  It is scaling toward an agentic platform for autonomous clinical assistance.
+industries:
+- HealthTech
+- Enterprise Software
+technologies:
+- Ambient AI
+- Natural Language Processing
+- Agentic AI
+headquarters:
+  city: Paris
+  country_code: FR
+funding:
+  total_raised_usd: 120000000
+  last_round: Series C
+  investors:
+  - HV Capital
+  - Highland Europe
+  - Cathay Innovation
+  - DST Global

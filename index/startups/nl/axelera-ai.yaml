@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: axelera-ai
+name: Axelera AI
+website: https://www.axelera.ai
+founded_year: 2021
+description: Semiconductor company designing energy-efficient AI hardware for edge
+  computing.
+long_description: Based in Eindhoven, Axelera AI develops the Metis AI platform using
+  in-memory computing to provide high-performance AI inference with low power consumption.
+  Their Europa AIPU is designed for edge devices like drones and robots.
+industries:
+- Semiconductors
+- Deep Tech
+- Hardware
+technologies:
+- In-Memory Computing
+- Edge AI
+- Computer Vision
+headquarters:
+  city: Eindhoven
+  country_code: NL
+  region: North Brabant
+funding:
+  total_raised_usd: 68000000
+  last_round: Series B
+  investors:
+  - Samsung Catalyst Fund
+open_source:
+  active: true
+  github_org: https://github.com/axelera-ai

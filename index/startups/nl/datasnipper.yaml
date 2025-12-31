@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: datasnipper
+name: DataSnipper
+website: https://www.datasnipper.com
+founded_year: 2017
+description: An intelligent automation platform for audit and finance professionals.
+long_description: DataSnipper embeds AI directly into Excel to automate the 'vouching
+  and tracing' process in auditing. It reconciles unstructured documents against ledgers,
+  creating a verified audit trail. It is used by all of the Big Four accounting firms.
+industries:
+- FinTech
+- Audit
+- Enterprise Software
+technologies:
+- Intelligent Automation
+- OCR
+- Document AI
+headquarters:
+  city: Amsterdam
+  country_code: NL
+  region: North Holland
+funding:
+  total_raised_usd: 100000000
+  last_round: Series B
+  investors:
+  - Index Ventures
+  - Insight Partners

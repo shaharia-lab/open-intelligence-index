@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: stability-ai
+name: Stability AI
+website: https://stability.ai
+founded_year: 2020
+description: Open-source foundational model provider for creative media.
+long_description: A leader in the foundational model layer, Stability AI is known for
+  Stable Diffusion, an open-source text-to-image generator. The company focuses on
+  the convergence of generative AI and studio content across audio, video, and 3D modalities.
+industries:
+- Generative AI
+- Infrastructure
+- Creative Arts
+technologies:
+- Foundation Models
+- Open Source
+- Diffusion Models
+headquarters:
+  city: London
+  country_code: GB
+  region: Notting Hill
+funding:
+  total_raised_usd: 80000000
+  last_round: Venture
+  investors:
+  - Greycroft
+  - Coatue
+  - Sean Parker
+open_source:
+  active: true

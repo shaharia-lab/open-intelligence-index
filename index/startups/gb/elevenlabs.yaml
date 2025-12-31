@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: elevenlabs
+name: ElevenLabs
+website: https://elevenlabs.io
+founded_year: 2022
+description: Advanced AI voice synthesis and audio intelligence platform.
+long_description: ElevenLabs specializes in high-fidelity voice synthesis that captures
+  emotional intonation and context. It has achieved unicorn status and serves as a platform
+  for a growing cluster of audio-centric AI applications.
+industries:
+- Generative AI
+- Audio Technology
+technologies:
+- Voice Synthesis
+- Natural Language Processing
+headquarters:
+  city: London
+  country_code: GB
+funding:
+  last_round: Series B
+  investors:
+  - Andreessen Horowitz

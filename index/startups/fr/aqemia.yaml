@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: aqemia
+name: Aqemia
+website: https://aqemia.com
+founded_year: 2019
+description: Combining generative AI and quantum-inspired physics for drug discovery.
+long_description: Aqemia uses physics-based algorithms to predict drug-target affinity
+  without needing vast amounts of experimental data. This unique approach allows for
+  rapid scaling of drug discovery pipelines in partnership with major pharmaceutical
+  firms.
+industries:
+- HealthTech
+- Biotechnology
+- Pharmaceuticals
+technologies:
+- Generative AI
+- Quantum-Inspired Physics
+- Computational Chemistry
+headquarters:
+  city: Paris
+  country_code: FR
+funding:
+  total_raised_usd: 100000000
+  last_round: Venture Round
+  investors:
+  - Cathay Innovation
+  - Eurazeo
+  - Bpifrance

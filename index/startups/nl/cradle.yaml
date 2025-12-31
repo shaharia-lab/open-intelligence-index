@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: cradle
+name: Cradle
+website: https://www.cradle.bio
+founded_year: 2021
+description: Biotech startup using generative AI to design improved proteins.
+long_description: Cradle uses Large Language Models to predict amino acid sequences
+  in proteins, allowing biologists to program proteins with specific properties like
+  heat resistance. It bridges digital design and wet-lab validation.
+industries:
+- Biotechnology
+- HealthTech
+- Life Sciences
+technologies:
+- Generative Biology
+- LLM
+- Protein Engineering
+headquarters:
+  city: Amsterdam
+  country_code: NL
+  region: North Holland
+funding:
+  total_raised_usd: 100000000
+  last_round: Series B
+  investors:
+  - Index Ventures
+  - IVP
+  - Kindred Capital

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: lighton
+name: LightOn
+website: https://lighton.ai
+founded_year: 2016
+description: Enterprise generative AI platform for sovereign on-premise deployments.
+long_description: LightOn's Paradigm platform enables regulated industries to build
+  and deploy large language models on private clouds or on-premise infrastructure.
+  It became the first pure-player GenAI company to list on Euronext Growth.
+industries:
+- Generative AI
+- Enterprise Software
+- Infrastructure
+technologies:
+- Large Language Models
+- Sovereign AI
+- Model Training
+headquarters:
+  city: Paris
+  country_code: FR
+funding:
+  last_round: IPO
+  investors:
+  - Public Market

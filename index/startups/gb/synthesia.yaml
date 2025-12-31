@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: synthesia
+name: Synthesia
+website: https://www.synthesia.io
+founded_year: 2017
+description: Enterprise-grade generative video platform utilizing AI avatars.
+long_description: Synthesia enables the creation of photorealistic AI avatars that can
+  speak in over 120 languages, addressing the high cost and logistical friction of
+  traditional video production. Used by over 60% of Fortune 100 companies for training
+  and corporate communications.
+industries:
+- Generative AI
+- Video Production
+- Enterprise Software
+technologies:
+- Deep Learning
+- Synthetic Media
+- Computer Vision
+headquarters:
+  city: London
+  country_code: GB
+funding:
+  total_raised_usd: 180000000
+  last_round: Series D
+  investors:
+  - NEA
+  - Accel

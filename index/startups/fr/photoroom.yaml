@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: photoroom
+name: Photoroom
+website: https://www.photoroom.com
+founded_year: 2019
+description: AI-driven e-commerce photography platform for background removal and
+  styling.
+long_description: Photoroom provides professional-quality photo editing tools powered
+  by proprietary AI models trained specifically for product photography. It is a global
+  standard for e-commerce imaging with hundreds of millions of downloads.
+industries:
+- Creative AI
+- E-commerce
+- SaaS
+technologies:
+- Computer Vision
+- Deep Learning
+- Image Generation
+headquarters:
+  city: Paris
+  country_code: FR
+funding:
+  total_raised_usd: 64000000
+  last_round: Series B
+  investors:
+  - Balderton Capital
+  - Aglaé Ventures
+  - Y Combinator

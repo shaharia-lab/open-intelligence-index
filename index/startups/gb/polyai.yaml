@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: polyai
+name: PolyAI
+website: https://poly.ai
+founded_year: 2017
+description: Superhuman voice assistants for enterprise customer service.
+long_description: PolyAI develops voice agents that handle complex, multi-turn conversations
+  for high-volume environments like hospitality and logistics, resolving over 50% of calls
+  without human intervention.
+industries:
+- Customer Service
+- Enterprise Software
+technologies:
+- Conversational AI
+- Spoken Language Understanding
+headquarters:
+  city: London
+  country_code: GB
+funding:
+  total_raised_usd: 86000000
+  last_round: Series D
+  investors:
+  - Georgian
+  - Khosla Ventures

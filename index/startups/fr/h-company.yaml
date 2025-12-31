@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: h-company
+name: H Company
+website: https://hcompany.ai
+founded_year: 2024
+description: Developer of action-oriented AI agents for enterprise automation.
+long_description: Formerly known as Holistic AI, H Company focuses on 'Action Models'—AI
+  systems designed to execute complex tasks and workflows rather than just generating
+  text. Their flagship products, Runner H and Surfer H, are built for web-interface
+  automation and robotic process automation.
+industries:
+- Generative AI
+- Enterprise Software
+- Automation
+technologies:
+- Agentic AI
+- Action Models
+- Visual-Language Models
+headquarters:
+  city: Paris
+  country_code: FR
+funding:
+  total_raised_usd: 220000000
+  last_round: Seed
+  investors:
+  - Accel
+  - Amazon
+  - UiPath
+  - Eric Schmidt
+  - Xavier Niel
