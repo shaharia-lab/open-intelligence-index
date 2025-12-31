@@ -1,0 +1,15 @@
+id: mindpeak
+name: Mindpeak
+website: https://mindpeak.ai
+founded_year: 2018
+description: AI tools for clinical pathology to detect and quantify cancer cells.
+industries:
+- Healthcare
+technologies:
+- Pathology AI
+headquarters:
+  city: Hamburg
+  country_code: DE
+  region: Hamburg
+funding:
+  total_raised_usd: 19800000

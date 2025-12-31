@@ -1,0 +1,16 @@
+id: upvest
+name: Upvest
+website: https://upvest.co
+founded_year: 2017
+description: Investment API provider enabling fintechs to offer trading products.
+industries:
+- Fintech
+technologies:
+- API
+- Investment Infrastructure
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 198000000

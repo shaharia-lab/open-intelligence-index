@@ -1,0 +1,17 @@
+id: arx-robotics
+name: ARX Robotics
+website: https://arx-robotics.com
+founded_year: 2021
+description: Develops autonomous unmanned ground vehicles for military use.
+industries:
+- Defense
+technologies:
+- Unmanned Ground Vehicles
+- Robotics
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 52200000
+  last_round: Series A

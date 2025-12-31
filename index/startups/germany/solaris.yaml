@@ -1,0 +1,15 @@
+id: solaris
+name: Solaris
+website: https://solarisgroup.com
+founded_year: 2016
+description: Banking-as-a-Service platform.
+industries:
+- Fintech
+technologies:
+- Banking-as-a-Service
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 621000000

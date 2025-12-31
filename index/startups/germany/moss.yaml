@@ -1,0 +1,17 @@
+id: moss
+name: Moss
+website: https://getmoss.com
+founded_year: 2019
+description: Corporate cards and spend management platform with automated invoice
+  processing.
+industries:
+- Fintech
+technologies:
+- OCR
+- Automated Invoice Processing
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 150000000

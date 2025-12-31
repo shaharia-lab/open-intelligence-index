@@ -1,0 +1,18 @@
+id: helsing
+name: Helsing
+website: https://helsing.ai
+founded_year: 2021
+description: Defense AI company focusing on software-defined capabilities for weapon
+  systems.
+industries:
+- Defense
+technologies:
+- Sensor Fusion
+- AI
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 1470000000
+  last_round: Series C

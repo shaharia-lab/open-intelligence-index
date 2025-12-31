@@ -1,0 +1,17 @@
+id: levity
+name: Levity
+website: https://levity.ai
+founded_year: 2020
+description: No-code AI automation platform allowing non-technical users to build
+  workflow agents.
+industries:
+- Automation
+technologies:
+- No-code
+- Workflow Agents
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 8000000

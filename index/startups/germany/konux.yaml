@@ -1,0 +1,17 @@
+id: konux
+name: Konux
+website: https://konux.com
+founded_year: 2014
+description: Uses smart sensors and AI to monitor railway switches and predict maintenance.
+industries:
+- Railway
+- IIoT
+technologies:
+- Smart Sensors
+- Predictive Analytics
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 191000000

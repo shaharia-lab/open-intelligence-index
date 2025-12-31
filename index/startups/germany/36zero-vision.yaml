@@ -1,0 +1,15 @@
+id: 36zero-vision
+name: 36ZERO Vision
+website: https://36zerovision.com
+founded_year: 2018
+description: AI-powered visual inspection system to identify manufacturing quality
+  issues.
+industries:
+- Quality Control
+- Manufacturing
+technologies:
+- Computer Vision
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin

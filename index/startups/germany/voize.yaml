@@ -1,0 +1,17 @@
+id: voize
+name: Voize
+website: https://voize.de
+founded_year: 2020
+description: Digital voice assistant for healthcare documentation on smartphones.
+industries:
+- Healthcare
+technologies:
+- Voice Assistant
+- Documentation
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 50000000
+  last_round: Series A

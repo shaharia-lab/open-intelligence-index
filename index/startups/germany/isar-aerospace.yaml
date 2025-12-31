@@ -1,0 +1,16 @@
+id: isar-aerospace
+name: Isar Aerospace
+website: https://isaraerospace.com
+founded_year: 2018
+description: Developing launch vehicles for satellite constellations.
+industries:
+- SpaceTech
+technologies:
+- Launch Vehicles
+- Automated Manufacturing
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 330000000

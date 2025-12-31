@@ -1,0 +1,17 @@
+id: ororatech
+name: OroraTech
+website: https://ororatech.com
+founded_year: 2018
+description: Satellite-based wildfire detection service using thermal infrared cameras.
+industries:
+- SpaceTech
+- ClimateTech
+technologies:
+- Satellite Imagery
+- Thermal Sensors
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 40000000

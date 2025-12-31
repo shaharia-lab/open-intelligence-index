@@ -1,0 +1,15 @@
+id: ai-omatic
+name: ai-omatic
+website: https://ai-omatic.com
+founded_year: 2020
+description: Digital maintenance assistant analyzing sensor data to predict failures.
+industries:
+- Manufacturing
+technologies:
+- Predictive Maintenance
+headquarters:
+  city: Hamburg
+  country_code: DE
+  region: Hamburg
+funding:
+  total_raised_usd: 3000000

@@ -1,0 +1,17 @@
+id: twaice
+name: TWAICE
+website: https://twaice.com
+founded_year: 2018
+description: Predictive analytics software for battery health and lifetime optimization.
+industries:
+- Energy
+- Mobility
+technologies:
+- Battery Analytics
+- Predictive Analytics
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 45000000

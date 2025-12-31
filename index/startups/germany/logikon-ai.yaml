@@ -1,0 +1,15 @@
+id: logikon-ai
+name: Logikon AI
+website: https://logikon.ai
+founded_year: 2023
+description: Developer tools for evaluating and debugging the reasoning traces of
+  LLMs.
+industries:
+- DevTools
+technologies:
+- LLM Evaluation
+- Reasoning
+headquarters:
+  city: Stuttgart
+  country_code: DE
+  region: Baden-Württemberg

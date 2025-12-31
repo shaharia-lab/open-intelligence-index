@@ -1,0 +1,16 @@
+id: neuroflash
+name: Neuroflash
+website: https://neuroflash.com
+founded_year: 2021
+description: AI Copywriter for the DACH region specializing in German content.
+industries:
+- Marketing
+technologies:
+- Generative AI
+- NLP
+headquarters:
+  city: Hamburg
+  country_code: DE
+  region: Hamburg
+funding:
+  total_raised_usd: 800000

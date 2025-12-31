@@ -1,0 +1,16 @@
+id: ineratec
+name: Ineratec
+website: https://ineratec.de
+founded_year: 2016
+description: Modular chemical plants for power-to-liquid e-fuels production.
+industries:
+- Energy
+- CleanTech
+technologies:
+- Process Control AI
+headquarters:
+  city: Karlsruhe
+  country_code: DE
+  region: Baden-Württemberg
+funding:
+  total_raised_usd: 210000000

@@ -1,0 +1,17 @@
+id: hawk-ai
+name: HAWK:AI
+website: https://hawk.ai
+founded_year: 2018
+description: Anti-money laundering surveillance platform using explainable AI.
+industries:
+- Fintech
+- Security
+technologies:
+- Explainable AI
+- AML
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 20000000

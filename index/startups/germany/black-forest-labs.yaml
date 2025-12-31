@@ -1,0 +1,23 @@
+id: black-forest-labs
+name: Black Forest Labs
+website: https://bfl.ai
+founded_year: 2024
+description: Creators of the 'Flux.1' state-of-the-art text-to-image models.
+long_description: Founded by the original creators of Stable Diffusion, this company
+  represents the cutting edge of generative media, rapidly achieving unicorn status
+  shortly after founding.
+industries:
+- Media
+technologies:
+- Generative AI
+- Text-to-Image
+headquarters:
+  city: Freiburg im Breisgau
+  country_code: DE
+  region: Baden-Württemberg
+funding:
+  total_raised_usd: 301000000
+  last_round: Series B
+  investors:
+  - Andreessen Horowitz
+  - General Catalyst

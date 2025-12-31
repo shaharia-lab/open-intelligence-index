@@ -1,0 +1,19 @@
+id: neura-robotics
+name: Neura Robotics
+website: https://neura-robotics.com
+founded_year: 2019
+description: Developer of cognitive robots capable of safe human collaboration.
+long_description: They integrate AI, sensors, and hardware in-house to create versatile
+  robotic assistants like MAiRA.
+industries:
+- Robotics
+technologies:
+- Cognitive Robotics
+- Sensors
+headquarters:
+  city: Metzingen
+  country_code: DE
+  region: Baden-Württemberg
+funding:
+  total_raised_usd: 185000000
+  last_round: Series B

@@ -1,0 +1,16 @@
+id: n26
+name: N26
+website: https://n26.com
+founded_year: 2013
+description: Mobile bank leveraging AI for fraud detection and credit scoring.
+industries:
+- Fintech
+technologies:
+- Fraud Detection
+- Personalization
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 1700000000

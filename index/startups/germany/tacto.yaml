@@ -1,0 +1,15 @@
+id: tacto
+name: Tacto
+website: https://tacto.ai
+founded_year: 2020
+description: AI-based procurement operating system for mid-sized industrial enterprises.
+industries:
+- Procurement
+technologies:
+- Sourcing Automation
+headquarters:
+  city: Munich
+  country_code: DE
+  region: Bavaria
+funding:
+  total_raised_usd: 50000000

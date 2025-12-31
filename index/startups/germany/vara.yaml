@@ -1,0 +1,15 @@
+id: vara
+name: Vara
+website: https://vara.ai
+founded_year: 2016
+description: AI platform for breast cancer screening improving radiologist sensitivity.
+industries:
+- Healthcare
+technologies:
+- Radiology AI
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
+funding:
+  total_raised_usd: 10000000

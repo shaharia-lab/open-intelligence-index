@@ -1,0 +1,14 @@
+id: cambrium
+name: Cambrium
+website: https://cambrium.bio
+founded_year: 2020
+description: Design of sustainable materials using generative protein models.
+industries:
+- BioTech
+- Material Science
+technologies:
+- Generative Protein Models
+headquarters:
+  city: Berlin
+  country_code: DE
+  region: Berlin
