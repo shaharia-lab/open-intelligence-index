@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+
+id: aleph-alpha
+name: "Aleph Alpha"
+website: "https://aleph-alpha.de"
+logo_url: "https://aleph-alpha.de/assets/logo.png"
+founded_year: 2019
+description: "Developing sovereign, industrial-grade Large Language Models and Generative AI for the European market."
+long_description: |
+  Aleph Alpha researches and operationalizes large-scale AI models for language, 
+  image data, and strategy. They focus on data sovereignty and explainability, 
+  serving the B2B and government sectors as a European alternative to US-based models. 
+  Their "Luminous" family of models is designed for critical enterprise environments.
+
+industries:
+  - "Enterprise Software"
+  - "Government"
+technologies:
+  - "Generative AI"
+  - "LLM"
+  - "Multimodal"
+
+headquarters:
+  city: "Heidelberg"
+  country_code: "DE"
+  region: "Baden-Württemberg"
+
+funding:
+  total_raised_usd: 533000000
+  last_round: "Series B"
+  investors:
+    - "Earlybird"
+    - "UVC Partners"
+    - "Bosch"
+    - "SAP"
+
+open_source:
+  active: true
+  github_org: "https://github.com/Aleph-Alpha"
+  huggingface_org: "https://huggingface.co/Aleph-Alpha"
+
+socials:
+  linkedin: "https://www.linkedin.com/company/aleph-alpha/"
+  twitter: "https://twitter.com/Aleph__Alpha"

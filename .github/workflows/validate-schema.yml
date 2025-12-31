@@ -1,0 +1,100 @@
+name: Validate Data Against Schema
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+  pull_request:
+    branches:
+      - main
+      - develop
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate YAML files against schema
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install ajv-cli
+        run: npm install -g ajv-cli
+
+      - name: Convert YAML files to JSON for validation
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3 python3-pip python3-yaml
+          python3 << 'EOF'
+          import yaml
+          import json
+          import os
+          from pathlib import Path
+
+          def convert_yaml_to_json(source_dir, output_dir):
+            """Recursively convert YAML files to JSON."""
+            source_path = Path(source_dir)
+            output_path = Path(output_dir)
+            output_path.mkdir(parents=True, exist_ok=True)
+
+            yaml_files = list(source_path.rglob('*.yaml')) + list(source_path.rglob('*.yml'))
+
+            for yaml_file in yaml_files:
+              try:
+                with open(yaml_file, 'r') as f:
+                  data = yaml.safe_load(f)
+
+                # Preserve directory structure
+                relative_path = yaml_file.relative_to(source_path)
+                json_file = output_path / relative_path.with_suffix('.json')
+
+                json_file.parent.mkdir(parents=True, exist_ok=True)
+
+                with open(json_file, 'w') as f:
+                  json.dump(data, f, indent=2)
+
+                print(f"Converted: {relative_path}")
+              except Exception as e:
+                print(f"Error converting {yaml_file}: {e}")
+                raise
+
+          convert_yaml_to_json('index', '.validation-temp')
+
+          # Also convert schema.yaml if it exists
+          if os.path.exists('schema.yaml'):
+            import yaml
+            with open('schema.yaml', 'r') as f:
+              schema_data = yaml.safe_load(f)
+            with open('.validation-temp/schema-from-yaml.json', 'w') as f:
+              json.dump({'yaml': schema_data}, f, indent=2)
+
+          print("Conversion complete!")
+          EOF
+
+      - name: Validate JSON files against schema
+        run: |
+          # Find all JSON files and validate them
+          find .validation-temp/index -name '*.json' -type f | while read -r file; do
+            echo "Validating: $file"
+            ajv validate \
+              -s schemas/startup.schema.json \
+              -d "$file" \
+              --errors=text || {
+              echo "::error file=$file::Validation failed for $file"
+              exit 1
+            }
+          done
+          echo "All files validated successfully!"
+
+      - name: Cleanup
+        if: always()
+        run: rm -rf .validation-temp
