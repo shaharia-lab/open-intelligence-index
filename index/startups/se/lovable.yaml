@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: lovable
+name: Lovable
+website: https://lovable.dev
+founded_year: 2023
+description: A 'vibe coding' platform that allows users to build full-stack applications
+  through natural language conversation.
+long_description: Emerging from the open-source gpt-engineer project, Lovable abstracts
+  the traditional IDE to enable 'Vibe Coding'. It creates full-stack applications
+  including databases, backends, and frontends. The company achieved a $6.6 billion
+  valuation in late 2025 and focuses on software democratization for both engineers
+  and non-technical product managers.
+industries:
+- Software Development
+- DevTools
+technologies:
+- Generative AI
+- NLP-to-Code
+- Large Language Models
+headquarters:
+  city: Stockholm
+  country_code: SE
+funding:
+  total_raised_usd: 330000000
+  last_round: Series B
+  investors:
+  - CapitalG
+  - Menlo Ventures
+  - Accel
+open_source:
+  active: true
+  github_org: https://github.com/lovable

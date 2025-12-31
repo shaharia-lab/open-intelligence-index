@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: leya
+name: Leya
+website: https://leya.law
+founded_year: 2023
+description: An AI-powered legal assistant designed for precision and explainability
+  in legal workflows.
+long_description: Leya is engineered for legal precision, integrating with law firm
+  document management systems and external databases. It automates due diligence and
+  contract drafting by providing sentence-level citations to specific case law and
+  contract clauses to eliminate hallucinations.
+industries:
+- Legal Tech
+- Professional Services
+technologies:
+- Generative AI
+- Extractional AI
+- NLP
+headquarters:
+  city: Stockholm
+  country_code: SE
+funding:
+  total_raised_usd: 25000000
+  last_round: Series A
+  investors:
+  - Redpoint Ventures
+  - Benchmark
+  - Y Combinator

@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: encube
+name: Encube
+website: https://www.getencube.com
+founded_year: 2021
+description: An AI platform that bridges the gap between hardware design and manufacturing
+  complexity.
+long_description: Encube analyzes CAD designs during the engineering phase to predict
+  manufacturing complexity and cost. By identifying expensive design choices early,
+  it helps manufacturing firms like Volvo and Scania reduce production costs and iterate
+  faster on hardware development.
+industries:
+- Manufacturing
+- Industrial Tech
+technologies:
+- Predictive Analytics
+- Computer Vision
+- CAD Analysis AI
+headquarters:
+  city: Stockholm
+  country_code: SE
+funding:
+  total_raised_usd: 23000000
+  last_round: Series B
+  investors:
+  - Kinnevik
+  - Promus Ventures
