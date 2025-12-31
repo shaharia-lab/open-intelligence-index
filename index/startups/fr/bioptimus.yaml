@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: bioptimus
+name: Bioptimus
+website: https://www.bioptimus.com
+founded_year: 2024
+description: Developing a universal foundation model for biological research.
+long_description: Bioptimus is building the 'GPT for Biology'—a foundation model trained
+  on multi-scale biological data, from DNA to tissue imaging. Their mission is to
+  accelerate discoveries in life sciences by providing a comprehensive understanding
+  of biological laws.
+industries:
+- HealthTech
+- Biotechnology
+- Life Sciences
+technologies:
+- Foundation Models
+- Deep Learning
+- Biological Data Modeling
+headquarters:
+  city: Paris
+  country_code: FR
+funding:
+  total_raised_usd: 76000000
+  last_round: Series A
+  investors:
+  - Cathay Innovation
+  - Sofinnova Partners
+  - Bpifrance
