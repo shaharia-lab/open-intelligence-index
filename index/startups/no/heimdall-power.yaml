@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: heimdall-power
+name: Heimdall Power
+website: https://www.heimdallpower.com
+founded_year: 2016
+description: Digitizing the power grid using IoT sensors and Dynamic Line Rating (DLR).
+long_description: Heimdall produces 'Neuron' sensors that measure temperature and
+  vibration on power lines. Their AI software enables Dynamic Line Rating, allowing
+  grid operators to transmit significantly more energy through existing lines by analyzing
+  real-time conditions.
+industries:
+- Energy
+- CleanTech
+- IoT
+technologies:
+- Dynamic Line Rating (DLR)
+- IoT
+- Machine Learning
+headquarters:
+  city: Oslo
+  country_code: 'NO'
+funding:
+  total_raised_usd: 53000000
+  last_round: Series B
+  investors:
+  - Orlen
+  - Investinor
+  - NRP Zero
+socials:
+  linkedin: https://www.linkedin.com/company/heimdall-power

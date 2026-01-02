@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: 1x-technologies
+name: 1X Technologies
+website: https://www.1x.tech
+founded_year: 2014
+description: Developing humanoid androids designed to alleviate labor shortages using
+  embodied AI.
+long_description: Formerly known as Halodi Robotics, 1X Technologies is a high-profile
+  robotics company backed by the OpenAI Startup Fund. They develop humanoid androids
+  like EVE and NEO. In 2025, they released a 'World Model' trained on raw sensor data,
+  allowing robots to predict physical outcomes of actions without manual simulation
+  coding.
+industries:
+- Robotics
+- Embodied AI
+- Manufacturing
+technologies:
+- Embodied AI
+- Reinforcement Learning
+- World Models
+- Sensor Fusion
+headquarters:
+  city: Oslo
+  country_code: 'NO'
+funding:
+  total_raised_usd: 136000000
+  last_round: Series B
+  investors:
+  - OpenAI Startup Fund
+  - Tiger Global
+  - EQT Ventures
+open_source:
+  active: true
+  github_org: https://github.com/1x-technologies
+socials:
+  linkedin: https://www.linkedin.com/company/1x-technologies
+  twitter: https://twitter.com/1x_tech

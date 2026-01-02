@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: aibidia
+name: Aibidia
+website: https://www.aibidia.com
+founded_year: 2014
+description: Digital platform for transfer pricing management and tax compliance.
+long_description: Aibidia leverages AI to automate cross-border transfer pricing documentation.
+  Their platform helps multinational corporations manage tax compliance more efficiently,
+  turning a manual legal requirement into a structured data service.
+industries:
+- FinTech
+- LegalTech
+technologies:
+- Tax Automation
+- Data Structuring
+- Machine Learning
+headquarters:
+  city: Helsinki
+  country_code: FI
+funding:
+  total_raised_usd: 52600000
+  last_round: Series B
+  investors:
+  - Activant Capital
+socials:
+  linkedin: https://www.linkedin.com/company/aibidia

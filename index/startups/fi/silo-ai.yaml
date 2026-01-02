@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: silo-ai
+name: Silo AI
+website: https://silo.ai
+founded_year: 2017
+description: The largest private AI lab in Europe, building custom enterprise AI solutions.
+long_description: Prior to its $665M acquisition by AMD in 2024, Silo AI established
+  itself as Europe's premier AI foundry. They specialize in building sovereign LLMs
+  (like Poro) and high-performance AI implementations for global industrial partners,
+  focusing on trustworthy and scalable machine learning.
+industries:
+- Professional Services
+- Enterprise Intelligence
+technologies:
+- Generative AI
+- LLMs
+- Computer Vision
+- Edge AI
+headquarters:
+  city: Helsinki
+  country_code: FI
+funding:
+  total_raised_usd: 28600000
+  last_round: Acquired
+  investors:
+  - AMD (Acquirer)
+open_source:
+  active: true
+  huggingface_org: https://huggingface.co/siloai
+socials:
+  linkedin: https://www.linkedin.com/company/silo-ai

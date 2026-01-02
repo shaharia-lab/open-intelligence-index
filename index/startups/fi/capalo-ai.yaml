@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: capalo-ai
+name: Capalo AI
+website: https://capaloai.com
+founded_year: 2022
+description: Virtual power plant software optimizing energy storage and grid balancing.
+long_description: Capalo AI uses machine learning to orchestrate battery energy storage
+  systems. Their software acts as a conductor for renewable energy grids, intelligently
+  managing charging and discharging to maximize grid stability and asset monetization.
+industries:
+- Energy
+- CleanTech
+technologies:
+- Optimization Algorithms
+- Predictive Analytics
+- Grid Orchestration
+headquarters:
+  city: Kuopio
+  country_code: FI
+funding:
+  total_raised_usd: 4200000
+  last_round: Seed
+socials:
+  linkedin: https://www.linkedin.com/company/capalo-ai

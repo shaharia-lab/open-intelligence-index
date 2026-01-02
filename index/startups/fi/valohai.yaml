@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: valohai
+name: Valohai
+website: https://valohai.com
+founded_year: 2016
+description: MLOps platform for automated model orchestration and version control.
+long_description: Valohai provides an infrastructure-agnostic MLOps platform that
+  automates the entire machine learning lifecycle. It allows data science teams to
+  manage experiments, version data, and deploy models across any cloud or on-premise
+  environment with full reproducibility.
+industries:
+- MLOps
+- Enterprise Software
+technologies:
+- ML Infrastructure
+- Orchestration
+- Pipeline Management
+headquarters:
+  city: Turku
+  country_code: FI
+funding:
+  total_raised_usd: 1800000
+  last_round: Seed
+  investors:
+  - Tesi
+open_source:
+  active: true
+  github_org: https://github.com/valohai
+socials:
+  linkedin: https://www.linkedin.com/company/valohai

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: strise
+name: Strise
+website: https://www.strise.ai
+founded_year: 2016
+description: Graph-based AI platform for automating AML and KYC compliance for banks.
+long_description: Strise uses a knowledge graph to map corporate networks, allowing
+  banks to identify hidden risks in complex corporate structures. It automates anti-money
+  laundering and know-your-customer checks, serving 70% of top-tier Nordic banks.
+industries:
+- FinTech
+- RegTech
+technologies:
+- Knowledge Graph
+- NLP
+- Automation
+headquarters:
+  city: Oslo
+  country_code: 'NO'
+funding:
+  total_raised_usd: 15700000
+  last_round: Series A
+  investors:
+  - Atomico
+  - Curiosity
+open_source:
+  active: true
+  github_org: https://github.com/strise
+socials:
+  linkedin: https://www.linkedin.com/company/strise
+  twitter: https://twitter.com/strise_ai

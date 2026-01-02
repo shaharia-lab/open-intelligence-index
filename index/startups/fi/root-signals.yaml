@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: root-signals
+name: Root Signals
+website: https://rootsignals.ai
+founded_year: 2023
+description: Enterprise-grade LLM evaluation and observability platform (Scorable).
+long_description: Root Signals addresses the hallucination problem in Generative AI
+  by providing quantitative evaluation metrics. Using an 'LLM-as-a-judge' approach,
+  their platform Scorable helps companies move models from proof-of-concept to production
+  with verified safety and reliability.
+industries:
+- MLOps
+- Software Infrastructure
+technologies:
+- LLM Evaluation
+- GenAI Governance
+- Hallucination Detection
+headquarters:
+  city: Helsinki
+  country_code: FI
+funding:
+  total_raised_usd: 2800000
+  last_round: Seed
+  investors:
+  - Angular Ventures
+  - Business Finland
+open_source:
+  active: true
+  github_org: https://github.com/root-signals
+socials:
+  linkedin: https://www.linkedin.com/company/rootsignals

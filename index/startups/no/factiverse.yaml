@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: factiverse
+name: Factiverse
+website: https://www.factiverse.ai
+founded_year: 2019
+description: Real-time AI fact-checking for text, video, and audio to combat disinformation.
+long_description: A spinout from the University of Stavanger, Factiverse provides
+  patented AI that retrieves credible sources to dispute or support claims in real-time.
+  It won the NATO DIANA challenge for its potential in defense and security.
+industries:
+- Media
+- Security
+- RegTech
+technologies:
+- NLP
+- Automated Fact-Checking
+- Real-time Analytics
+headquarters:
+  city: Stavanger
+  country_code: 'NO'
+  region: Rogaland
+funding:
+  total_raised_usd: 1100000
+  last_round: Seed
+  investors:
+  - Valide Invest
+  - Murshid Ali
+open_source:
+  active: true
+  github_org: https://github.com/factiverse
+socials:
+  linkedin: https://www.linkedin.com/company/factiverse
+  twitter: https://twitter.com/factiverse

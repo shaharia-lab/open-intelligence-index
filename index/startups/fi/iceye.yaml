@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: iceye
+name: ICEYE
+website: https://www.iceye.com
+founded_year: 2014
+description: Building and operating the world's largest Synthetic Aperture Radar (SAR)
+  satellite constellation.
+long_description: ICEYE is a global leader in satellite remote sensing. Its miniaturized
+  SAR technology allows for Earth observation through clouds and darkness, providing
+  real-time data for disaster response, maritime monitoring, and defense. In late
+  2025, they secured a massive €200 million Series E round to further scale their
+  constellation.
+industries:
+- Aerospace
+- Remote Sensing
+- Defense
+technologies:
+- SAR Technology
+- Edge Computing
+- Automated Object Detection
+headquarters:
+  city: Espoo
+  country_code: FI
+  region: Uusimaa
+funding:
+  total_raised_usd: 529600000
+  last_round: Series E
+  investors:
+  - General Catalyst
+  - Tesi
+  - BlackRock
+  - Draper Associates
+socials:
+  linkedin: https://www.linkedin.com/company/iceye

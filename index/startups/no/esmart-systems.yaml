@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: esmart-systems
+name: eSmart Systems
+website: https://www.esmartsystems.com
+founded_year: 2012
+description: AI-powered vision for inspecting power lines and critical energy infrastructure.
+long_description: The Grid Vision platform uses computer vision and AI to analyze
+  drone imagery of power lines. It identifies physical defects and vegetation encroachment,
+  reducing maintenance costs and fire risks for global utilities.
+industries:
+- Energy
+- Utilities
+- Infrastructure
+technologies:
+- Computer Vision
+- Drones
+- Image Analytics
+headquarters:
+  city: Halden
+  country_code: 'NO'
+  region: Viken
+funding:
+  total_raised_usd: 136000000
+  last_round: Series B
+  investors:
+  - TiLT Capital
+  - Quanta Services
+socials:
+  linkedin: https://www.linkedin.com/company/esmart-systems-as
+  twitter: https://twitter.com/esmartsystems

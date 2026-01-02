@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: nofence
+name: Nofence
+website: https://www.nofence.no
+founded_year: 2011
+description: Virtual fencing for livestock using GPS collars and audio/pulse cues.
+long_description: Nofence eliminates physical fences for livestock (cattle, sheep,
+  goats) using GPS-enabled collars. It trains animals to stay within virtual boundaries
+  using audio cues, enabling regenerative grazing and reducing labor costs.
+industries:
+- AgTech
+- CleanTech
+technologies:
+- GPS
+- Behavioral AI
+- IoT
+headquarters:
+  city: Batnfjordsøra
+  country_code: 'NO'
+  region: Møre og Romsdal
+funding:
+  total_raised_usd: 35000000
+  last_round: Series B
+  investors:
+  - ECBF
+socials:
+  linkedin: https://www.linkedin.com/company/nofence
+  twitter: https://twitter.com/nofence

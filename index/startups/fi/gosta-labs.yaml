@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: gosta-labs
+name: Gosta Labs
+website: https://www.gostalabs.com
+founded_year: 2023
+description: AI operating system for oncology to automate clinical workflows.
+long_description: Founded by the team behind Kaiku Health, Gosta Labs is building
+  an 'AI OS' for oncology. They utilize NLP and clinical AI to automate documentation
+  and data structuring, aiming to improve efficiency and treatment consistency in
+  cancer care.
+industries:
+- HealthTech
+- Oncology
+technologies:
+- Clinical AI
+- NLP
+- Workflow Automation
+headquarters:
+  city: Helsinki
+  country_code: FI
+funding:
+  total_raised_usd: 8730000
+  last_round: Seed
+socials:
+  linkedin: https://www.linkedin.com/company/gostalabs

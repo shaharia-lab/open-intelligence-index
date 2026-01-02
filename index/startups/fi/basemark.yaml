@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: basemark
+name: Basemark
+website: https://www.basemark.com
+founded_year: 2015
+description: Automotive AR and computer vision software for software-defined vehicles.
+long_description: Basemark specializes in automotive software, particularly Augmented
+  Reality (AR) Heads-Up Displays (HUDs) via their Rocksolid AR platform. Their AI
+  ensures visual stability and situational awareness for autonomous and safety-enhanced
+  driving.
+industries:
+- Automotive
+- Transport
+technologies:
+- Computer Vision
+- AR Content Anchoring
+- Edge AI
+headquarters:
+  city: Helsinki
+  country_code: FI
+funding:
+  total_raised_usd: 34000000
+  last_round: Series B
+  investors:
+  - ETF Partners
+  - Business Finland
+socials:
+  linkedin: https://www.linkedin.com/company/basemark

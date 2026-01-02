@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: saidot
+name: Saidot
+website: https://www.saidot.ai
+founded_year: 2018
+description: AI governance and alignment platform for enterprise transparency and
+  safety.
+long_description: Saidot provides a platform for managing AI governance, ensuring
+  that automated systems remain accountable and transparent. This 'Trustworthy AI'
+  approach positions them as a key player for enterprises navigating the EU AI Act
+  compliance requirements.
+industries:
+- RegTech
+- Software Infrastructure
+technologies:
+- AI Governance
+- Alignment Algorithms
+- Compliance Automation
+headquarters:
+  city: Espoo
+  country_code: FI
+funding:
+  total_raised_usd: 1900000
+  last_round: Seed
+socials:
+  linkedin: https://www.linkedin.com/company/saidot

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: vespa-ai
+name: Vespa.ai
+website: https://vespa.ai
+founded_year: 2023
+description: Open-source big data serving engine optimized for vector search and RAG.
+long_description: A spinout from Yahoo, Vespa is a critical infrastructure player
+  for real-time AI. It supports vector search, lexical search, and structured data
+  search natively. It is widely used for Retrieval-Augmented Generation (RAG) and
+  recommendation systems at scale.
+industries:
+- Big Data
+- Search
+- Infrastructure
+technologies:
+- Vector Search
+- RAG
+- Machine Learning Inference
+headquarters:
+  city: Trondheim
+  country_code: 'NO'
+  region: Trøndelag
+funding:
+  total_raised_usd: 31000000
+  last_round: Series A
+  investors:
+  - Blossom Capital
+open_source:
+  active: true
+  github_org: https://github.com/vespa-engine
+socials:
+  linkedin: https://www.linkedin.com/company/vespa-ai
+  twitter: https://twitter.com/vespaengine

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: dune-analytics
+name: Dune Analytics
+website: https://dune.com
+founded_year: 2018
+description: A community-first platform for querying and visualizing blockchain data
+  using SQL.
+long_description: Dune democratized crypto data by allowing users to create dashboards
+  and query blockchain data using standard SQL. It has become the industry standard
+  for on-chain analytics with a massive community of 'Wizards' maintaining public
+  dashboards.
+industries:
+- Web3
+- FinTech
+- Data Analytics
+technologies:
+- SQL
+- Blockchain Indexing
+- Data Visualization
+headquarters:
+  city: Oslo
+  country_code: 'NO'
+funding:
+  total_raised_usd: 79400000
+  last_round: Series B
+  investors:
+  - Andreessen Horowitz
+socials:
+  linkedin: https://www.linkedin.com/company/dune-analytics
+  twitter: https://twitter.com/DuneAnalytics

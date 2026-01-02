@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: cognite
+name: Cognite
+website: https://www.cognite.com
+founded_year: 2016
+description: Flagship industrial DataOps platform contextualizing OT/IT data for heavy
+  assets.
+long_description: Cognite is Norway's tech flagship, providing the Cognite Data Fusion
+  (CDF) platform. CDF maps industrial data relationships through knowledge graphs,
+  enabling digital twins and robotic inspections. While founded in Oslo, it moved
+  its global HQ to Arizona in 2025 to target the US manufacturing market.
+industries:
+- Industrial AI
+- Energy
+- Manufacturing
+technologies:
+- Knowledge Graphs
+- Digital Twins
+- DataOps
+- Predictive Analytics
+headquarters:
+  city: Tempe
+  country_code: US
+  region: Arizona
+funding:
+  total_raised_usd: 225000000
+  last_round: Late-Stage
+  investors:
+  - TCV
+  - Accel
+  - Saudi Aramco
+socials:
+  linkedin: https://www.linkedin.com/company/cogniteas

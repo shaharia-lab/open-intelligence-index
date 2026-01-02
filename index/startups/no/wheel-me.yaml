@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: wheel-me
+name: Wheel.me
+website: https://www.wheel.me
+founded_year: 2013
+description: Autonomous wheels that retrofit onto existing objects to turn them into
+  robots.
+long_description: Wheel.me produces the 'Genius' autonomous wheel, which can be retrofitted
+  onto carts or furniture. These wheels use VSLAM and sensor fusion to navigate indoor
+  environments, enabling flexible automation without external infrastructure.
+industries:
+- Robotics
+- Logistics
+- Manufacturing
+technologies:
+- VSLAM
+- Sensor Fusion
+- Robotics
+headquarters:
+  city: Oslo
+  country_code: 'NO'
+funding:
+  total_raised_usd: 50000000
+  last_round: Series A
+  investors:
+  - Idekapital
+  - Ferd
+  - Nysnø
+socials:
+  linkedin: https://www.linkedin.com/company/wheel-me
+  twitter: https://twitter.com/wheel_me_

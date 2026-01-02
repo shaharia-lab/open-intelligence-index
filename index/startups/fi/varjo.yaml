@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: varjo
+name: Varjo
+website: https://varjo.com
+founded_year: 2016
+description: Industrial-grade VR/XR headsets with human-eye resolution for professional
+  training.
+long_description: Varjo develops high-fidelity virtual and mixed reality hardware
+  and software. Their headsets feature human-eye resolution and integrated eye tracking,
+  primarily serving the automotive, aerospace, and simulation industries for high-stakes
+  training and design.
+industries:
+- Extended Reality
+- Professional Training
+- Manufacturing
+technologies:
+- Computer Vision
+- Foveated Rendering
+- Mixed Reality
+headquarters:
+  city: Helsinki
+  country_code: FI
+funding:
+  total_raised_usd: 230000000
+  last_round: Series D
+socials:
+  linkedin: https://www.linkedin.com/company/varjo
