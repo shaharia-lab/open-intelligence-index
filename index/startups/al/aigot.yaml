@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: aigot
+name: aiGot
+website: https://aigot.com
+founded_year: 2021
+description: Innovative IT solutions enhancing customer relations through AI-driven
+  actionable insights.
+long_description: aiGot specializes in innovative IT solutions that enhance customer
+  relations through AI-driven actionable insights. Their SaaS logic mirrors human
+  thought to automate communication and digital marketing efforts.
+industries:
+- IT Services
+- Digital Marketing
+technologies:
+- Automated Communication
+- SaaS Logic
+headquarters:
+  city: Tirana
+  country_code: AL

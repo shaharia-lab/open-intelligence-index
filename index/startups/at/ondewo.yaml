@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: ondewo
+name: Ondewo
+website: https://ondewo.com/en/
+founded_year: 2017
+description: Conversational AI platform for automated customer engagement.
+long_description: Ondewo specializes in conversational AI technology, providing natural
+  language understanding and speech-to-text solutions to automate customer service
+  interactions and call centers.
+industries:
+- Customer Service
+- SaaS
+technologies:
+- Conversational AI
+- Natural Language Understanding (NLU)
+- Speech-to-Text
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 0
+  last_round: Undisclosed
+  investors: []

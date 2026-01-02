@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: nextgen-mobility
+name: NextGen Mobility
+website: https://www.nextgenmobility.ad
+founded_year: 2022
+description: Smart transportation company developing autonomous vehicle AI and C-ITS
+  solutions.
+long_description: NextGen Mobility is at the forefront of Andorra's smart city initiative,
+  developing autonomous vehicle fleets optimized for mountain environments. Their
+  technology integrates IoT, AI, and Cooperative Intelligent Transport Systems (C-ITS)
+  to improve road safety, reduce traffic congestion, and enhance transit accessibility.
+industries:
+- Autonomous Mobility
+- Smart City
+technologies:
+- C-ITS
+- IoT
+- GNSS
+- Autonomous Navigation
+headquarters:
+  city: Andorra la Vella
+  country_code: AD
+socials:
+  linkedin: https://www.linkedin.com/company/nextgen-mobility-andorra

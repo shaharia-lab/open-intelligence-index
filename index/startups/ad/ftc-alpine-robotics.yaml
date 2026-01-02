@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: ftc-alpine-robotics
+name: FTC Alpine Robotics
+website: https://www.alpinerobotics.ad
+founded_year: 2021
+description: Industrial robotics firm integrating AI for material handling and quality
+  inspection.
+long_description: FTC Alpine Robotics develops collaborative robotic systems designed
+  to work alongside human operators. Their AI-integrated solutions handle material
+  handling, quality inspection, and aseptic manufacturing for the pharmaceutical industry,
+  emphasizing accessibility for both large and small enterprises in mountain contexts.
+industries:
+- Industrial Robotics
+- Manufacturing
+technologies:
+- Collaborative Robots (Cobots)
+- AI Quality Inspection
+headquarters:
+  city: Encamp
+  country_code: AD
+socials:
+  linkedin: https://www.linkedin.com/company/ftc-alpine-robotics

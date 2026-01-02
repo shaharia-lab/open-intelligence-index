@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: comadran-studios
+name: Comadran Studios
+website: https://www.comadranstudios.io
+founded_year: 2021
+description: AAA video game and movie studio leveraging cutting-edge 3D and VFX technology.
+long_description: Comadran Studios is an innovative creative studio dedicated to immersive
+  storytelling. They blend cutting-edge technology—including AI-procedural generation
+  and advanced VFX—with artistic vision to deliver captivating cinematic and gaming
+  content that resonates with global audiences.
+industries:
+- Gaming
+- Entertainment
+- VFX
+technologies:
+- AI Procedural Generation
+- 3D Technology
+headquarters:
+  city: Escaldes-Engordany
+  country_code: AD
+socials:
+  linkedin: https://www.linkedin.com/company/comadran-studios

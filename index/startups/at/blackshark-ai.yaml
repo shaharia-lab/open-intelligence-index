@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: blackshark-ai
+name: Blackshark.ai
+website: https://blackshark.ai/
+founded_year: 2020
+description: Creator of a photorealistic 3D digital twin of the entire planet.
+long_description: Blackshark.ai processes satellite and aerial imagery to generate
+  a semantic 3D digital twin of the Earth. Their technology renders over 1.5 billion
+  buildings for use in simulation, aviation training, and geospatial analytics.
+industries:
+- Geospatial
+- Simulation
+- Gaming
+- GovTech
+technologies:
+- Computer Vision
+- 3D Reconstruction
+- Geospatial Analytics
+headquarters:
+  city: Graz
+  country_code: AT
+  region: Styria
+funding:
+  total_raised_usd: 35000000
+  last_round: Series A
+  investors: []

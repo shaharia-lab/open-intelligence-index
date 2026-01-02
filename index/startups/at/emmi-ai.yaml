@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: emmi-ai
+name: Emmi AI
+website: https://www.emmi.ai/
+founded_year: 2025
+description: Industrial simulation platform using Anchored-branched Universal Physics
+  Transformers.
+long_description: Emmi AI focuses on scaling neural surrogates for engineering simulations
+  using their proprietary 'Anchored-branched Universal Physics Transformers' (AB-UPT).
+  This technology accelerates simulations for automotive aerodynamics and manufacturing,
+  integrating AI with traditional physics-based engineering.
+industries:
+- Industrial Automation
+- Simulation
+- Automotive
+technologies:
+- Physics-Informed AI
+- Neural Surrogates
+- Deep Learning
+headquarters:
+  city: Linz
+  country_code: AT
+  region: Upper Austria
+funding:
+  total_raised_usd: 17000000
+  last_round: Seed
+  investors:
+  - Speedinvest

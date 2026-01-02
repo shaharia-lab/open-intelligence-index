@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: deep-opinion
+name: DeepOpinion
+website: https://deepopinion.ai/
+founded_year: 2020
+description: Agentic automation platform for enterprise cognitive processes.
+long_description: DeepOpinion (rebranding to Otera) develops an Enterprise Agentic
+  Platform that uses Large Language Models (LLMs) as an intelligence layer to automate
+  multi-step cognitive tasks. Their technology focuses on high Straight-Through Processing
+  (STP) rates for unstructured data like insurance claims and trade financing documents.
+industries:
+- Business Process Automation
+- Enterprise Software
+- FinTech
+- InsurTech
+technologies:
+- Agentic AI
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Cognitive Automation
+headquarters:
+  city: Innsbruck
+  country_code: AT
+  region: Tyrol
+funding:
+  total_raised_usd: 12300000
+  last_round: Series A
+  investors: []

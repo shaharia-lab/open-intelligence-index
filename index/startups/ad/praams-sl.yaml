@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: praams-sl
+name: PRAAMS SL
+website: https://praa.ms
+founded_year: 2021
+description: Fintech platform utilizing behavioral AI for investment analysis and
+  risk profiling.
+long_description: PRAAMS developed InvestWatch, a visual research tool that analyzes
+  over 120,000 financial instruments. Its unique BehaviouRisk service employs behavioral
+  finance algorithms to identify 19 common cognitive and emotional biases, helping
+  individual investors optimize their portfolios through deep data analytics and risk
+  modeling.
+industries:
+- Fintech
+- Investment Management
+technologies:
+- Behavioral AI
+- Data Analytics
+- Risk Modeling Algorithms
+headquarters:
+  city: Andorra la Vella
+  country_code: AD
+socials:
+  linkedin: https://www.linkedin.com/company/praams

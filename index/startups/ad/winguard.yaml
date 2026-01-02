@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: winguard
+name: Winguard
+website: https://www.winguard.ad
+founded_year: 2018
+description: Data strategy and IT provider specializing in AI-driven business intelligence.
+long_description: Winguard is a technology collaborator focused on unlocking the potential
+  of data through advanced methodologies. They provide specialized AI consulting,
+  machine learning solutions, and data-driven strategies that empower businesses to
+  optimize operational efficiency and drive growth through automated insights.
+industries:
+- Business Intelligence
+- Data Strategy
+- Fintech
+technologies:
+- Python
+- Django
+- React Native
+- Machine Learning
+headquarters:
+  city: Escaldes-Engordany
+  country_code: AD
+  region: AD700
+socials:
+  linkedin: https://www.linkedin.com/company/winguard

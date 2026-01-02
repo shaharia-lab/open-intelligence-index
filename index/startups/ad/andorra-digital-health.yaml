@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: andorra-digital-health
+name: Andorra Digital Health
+website: https://www.linkedin.com/company/andorra-digital-health
+founded_year: 2019
+description: Telemedicine platform providing AI-powered triage and virtual doctor
+  services.
+long_description: Andorra Digital Health leads the national healthtech sector with
+  a telemedicine platform serving over 50,000 users. Its core innovation is an AI-powered
+  triage system that functions as a 'virtual doctor,' assessing symptoms and providing
+  personalized care recommendations. The company works closely with the national health
+  system (SAAS).
+industries:
+- Healthtech
+- Telemedicine
+technologies:
+- AI Triage Systems
+- Machine Learning
+headquarters:
+  city: Andorra la Vella
+  country_code: AD
+funding:
+  total_raised_usd: 5400000
+  last_round: Series B
+socials:
+  linkedin: https://www.linkedin.com/company/andorra-digital-health

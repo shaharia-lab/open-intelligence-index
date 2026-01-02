@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: xund
+name: XUND
+website: https://xund.ai/
+founded_year: 2018
+description: Medically certified AI API for patient interactions and symptom checking.
+long_description: XUND has developed a medical API certified as a Class IIa medical
+  device under the EU MDR. The platform automates patient interactions through symptom
+  checks and health risk assessments, processing millions of medical publications
+  to ensure clinical accuracy.
+industries:
+- Digital Health
+- MedTech
+- GovTech
+technologies:
+- Medical AI
+- Natural Language Processing (NLP)
+- Symptom Analysis Algorithms
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 12400000
+  last_round: Pre-Series A
+  investors:
+  - UNIQA Ventures
+  - Lead Ventures
+  - J&T Ventures

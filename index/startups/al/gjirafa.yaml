@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: gjirafa
+name: Gjirafa, Inc.
+website: https://gjirafa.com
+founded_year: 2013
+description: The fastest-growing tech company in Central Europe and primary digital
+  hub for the Albanian-speaking market.
+long_description: Gjirafa is the fastest-growing tech company in Central Europe and
+  serves as the primary digital hub for the Albanian-speaking market. While it encompasses
+  e-commerce and media, its core is a search engine built on advanced Natural Language
+  Processing (NLP). Its ecosystem includes specialized cloud products (GjirafaTech)
+  and an ad network (GjirafaAdNetwork).
+industries:
+- E-commerce
+- Search Engine
+- Digital Media
+technologies:
+- Natural Language Processing (NLP)
+- Data Mining
+- Predictive Analytics
+headquarters:
+  city: Tirana
+  country_code: AL
+funding:
+  total_raised_usd: 8700000
+  last_round: Series B
+  investors:
+  - Rockaway Capital
+  - StartupYard
+  - US DFC
+socials:
+  linkedin: https://www.linkedin.com/company/gjirafa
+  twitter: https://twitter.com/gjirafacom

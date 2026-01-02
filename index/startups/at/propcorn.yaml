@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: propcorn
+name: Propcorn
+website: https://www.propcorn.ai/
+founded_year: 2024
+description: AI search engine and analysis tool for real estate.
+long_description: Propcorn (also listed as Propcorn.ai) provides an AI-powered search
+  engine for the real estate market, helping users identify properties and assess
+  value efficiently.
+industries:
+- Real Estate
+- PropTech
+technologies:
+- Search Algorithms
+- Data Analytics
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 667000
+  last_round: Pre-Seed
+  investors: []

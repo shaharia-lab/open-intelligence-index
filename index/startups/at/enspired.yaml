@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: enspired
+name: Enspired
+website: https://www.enspired-trading.com
+founded_year: 2020
+description: AI-driven energy trading-as-a-service provider.
+long_description: Enspired utilizes reinforcement learning and AI-optimized power
+  trading to manage flexible energy assets like battery storage and virtual power
+  plants. Their platform operates in short-term European power markets, maximizing
+  profitability for decentralized energy assets.
+industries:
+- EnergyTech
+- CleanTech
+- FinTech
+technologies:
+- Reinforcement Learning
+- Algorithmic Trading
+- Predictive Analytics
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 45000000
+  last_round: Series B
+  investors: []

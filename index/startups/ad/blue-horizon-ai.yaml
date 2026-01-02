@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: blue-horizon-ai
+name: Blue Horizon AI
+website: https://bluehorizontraining.ro
+founded_year: 2022
+description: Generative AI platform for leadership development and realistic behavioral
+  simulations.
+long_description: Blue Horizon AI's LeaderCoreAI platform uses generative AI to simulate
+  high-stakes leadership conversations. The system features AI-powered avatars that
+  respond authentically to a manager's tone and choices, providing real-time feedback
+  and behavioral scoring to accelerate soft-skill growth in a safe environment.
+industries:
+- Edtech
+- Corporate Training
+technologies:
+- Generative AI
+- Large Language Models (LLMs)
+headquarters:
+  city: Ordino
+  country_code: AD
+socials:
+  linkedin: https://www.linkedin.com/company/blue-horizon-training

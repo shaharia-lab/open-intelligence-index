@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: revivetech
+name: ReviveTech
+website: https://revivetech.al
+founded_year: 2023
+description: AI-driven innovation focusing on computer vision and automatic speech
+  recognition.
+long_description: ReviveTech emphasizes AI-driven innovation with a focus on computer
+  vision and automatic speech recognition to transform business operations. They target
+  industries including Cybersecurity and Financial Services.
+industries:
+- Cybersecurity
+- Financial Services
+technologies:
+- Computer Vision
+- Automatic Speech Recognition
+- Blockchain
+headquarters:
+  city: Tirana
+  country_code: AL

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: chatlyn
+name: chatlyn
+website: https://chatlyn.com
+founded_year: 2022
+description: AI communication hub for hospitality and marketing automation.
+long_description: chatlyn offers an AI-powered platform for automating guest communication
+  and marketing in the hospitality sector, integrating with various messaging channels
+  to enhance customer engagement.
+industries:
+- MarTech
+- Hospitality
+- SaaS
+technologies:
+- Conversational AI
+- Marketing Automation
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 9000000
+  last_round: Series A
+  investors: []

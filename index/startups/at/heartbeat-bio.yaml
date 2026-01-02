@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: heartbeat-bio
+name: HeartBeat.bio
+website: https://www.heartbeat.bio/
+founded_year: 2021
+description: BioTech company using cardiac organoids and AI for drug discovery.
+long_description: HeartBeat.bio combines human cardiac organoids (Cardioids) with
+  AI-powered data analysis to accelerate cardiovascular drug discovery, providing
+  a high-throughput platform for testing drug efficacy and toxicity.
+industries:
+- BioTech
+- Pharma
+- Life Sciences
+technologies:
+- Bioinformatics
+- Machine Learning
+- Organoid Technology
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 6500000
+  last_round: Seed
+  investors: []

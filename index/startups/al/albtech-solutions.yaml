@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: albtech-solutions
+name: AlbTech Solutions
+website: https://albtech.solutions
+founded_year: 2024
+description: Focuses on empowering businesses through workflow automation and the
+  integration of intelligent predictive agents.
+long_description: AlbTech Solutions focuses on empowering businesses through workflow
+  automation and the integration of intelligent predictive agents. Their services
+  are split between AI Development and Custom Software, serving clients such as EHW
+  Group and Shtepia e Lodrave.
+industries:
+- AI Automation
+- Software Development
+technologies:
+- AI Workflow Automation
+- Predictive Systems
+- Intelligent Agents
+headquarters:
+  city: Tirana
+  country_code: AL

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: teneo-protocol
+name: Teneo Protocol
+website: https://teneo-protocol.ai/
+founded_year: 2024
+description: Decentralized data infrastructure for AI applications.
+long_description: Teneo Protocol is building data infrastructure to support AI development,
+  likely focusing on decentralized data availability or blockchain-integrated data
+  verification.
+industries:
+- Web3
+- Data Infrastructure
+technologies:
+- Blockchain
+- Data Protocols
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 3000000
+  last_round: Seed
+  investors: []

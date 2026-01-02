@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: prewave
+name: Prewave
+website: https://www.prewave.com
+founded_year: 2017
+description: AI-powered supply chain risk intelligence and compliance platform.
+long_description: Prewave uses AI to map and monitor millions of supply chain nodes
+  in real-time, identifying 140 types of risks including financial stress and cyber
+  threats. The platform processes data from millions of sources in 50 languages to
+  ensure compliance with the German Supply Chain Act and EU CSDDD.
+industries:
+- Supply Chain Management
+- Risk Management
+- RegTech
+technologies:
+- Predictive Analytics
+- Natural Language Processing (NLP)
+- Real-time Monitoring
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 101200000
+  last_round: Series B
+  investors: []

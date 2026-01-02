@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: mostly-ai
+name: MOSTLY AI
+website: https://mostly.ai/
+founded_year: 2017
+description: Synthetic data platform for privacy-safe AI training.
+long_description: MOSTLY AI pioneers the creation of synthetic data that retains the
+  statistical properties of original datasets without exposing sensitive personal
+  information, enabling GDPR-compliant AI training.
+industries:
+- Cybersecurity
+- Data Privacy
+- Enterprise Software
+technologies:
+- Generative AI
+- Synthetic Data
+- Differential Privacy
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 31100000
+  last_round: Series B
+  investors:
+  - Speedinvest
+  - PUSH Ventures

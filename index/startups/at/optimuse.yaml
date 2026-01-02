@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: optimuse
+name: Optimuse
+website: https://www.optimuse.com/en
+founded_year: 2021
+description: AI solutions for construction and property technology optimization.
+long_description: Optimuse provides AI-driven tools for the construction and real
+  estate sectors, likely focusing on design optimization, energy efficiency, or project
+  management based on its PropTech classification.
+industries:
+- Construction
+- PropTech
+technologies:
+- Predictive Analytics
+- Optimization Algorithms
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 6200000
+  last_round: Seed
+  investors:
+  - aws Gründungsfonds

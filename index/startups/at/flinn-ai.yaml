@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: flinn-ai
+name: Flinn.ai
+website: https://www.flinn.ai/
+founded_year: 2022
+description: Automation platform for MedTech quality and regulatory compliance.
+long_description: Flinn.ai streamlines the administrative burden for MedTech manufacturers
+  by automating quality and regulatory compliance processes. The platform manages
+  feedback tracking and mandatory documentation to ensure adherence to industry standards.
+industries:
+- MedTech
+- RegTech
+- LegalTech
+technologies:
+- Natural Language Processing (NLP)
+- Process Automation
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 11100000
+  last_round: Series A
+  investors: []

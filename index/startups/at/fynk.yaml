@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: fynk
+name: fynk
+website: https://www.fynk.com
+founded_year: 2022
+description: AI-powered legal workflow and contract management software.
+long_description: fynk provides a platform for automating legal workflows, focusing
+  on contract management and analysis to streamline operations for legal teams and
+  businesses.
+industries:
+- LegalTech
+- SaaS
+technologies:
+- Natural Language Processing (NLP)
+- Document Automation
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 3400000
+  last_round: Seed
+  investors: []

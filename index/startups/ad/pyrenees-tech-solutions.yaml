@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: pyrenees-tech-solutions
+name: Pyrénées Tech Solutions
+website: https://www.pyreneestech.ad
+founded_year: 2019
+description: AI-driven cybersecurity firm specializing in network threat detection
+  and defense.
+long_description: Pyrénées Tech Solutions provides advanced digital security for government
+  and financial institutions. Their core product is an AI-powered threat detection
+  system that identifies and mitigates cyber threats using behavioral analysis. They
+  secure major national entities including Andorra Telecom and the Government of Andorra.
+industries:
+- Cybersecurity
+- GovTech
+technologies:
+- Machine Learning
+- Behavioral Analysis
+- Threat Detection AI
+headquarters:
+  city: Andorra la Vella
+  country_code: AD
+funding:
+  total_raised_usd: 3450000
+  last_round: Seed
+  investors:
+  - Alpine Ventures
+  - Euro Cyber Capital
+socials:
+  linkedin: https://www.linkedin.com/company/pyrenees-tech-solutions

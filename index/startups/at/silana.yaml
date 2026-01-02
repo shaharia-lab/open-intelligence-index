@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: silana
+name: silana
+website: https://wearesilana.com/
+founded_year: 2022
+description: Automated fashion production using robotics and AI.
+long_description: silana leverages AI and robotics to automate the fashion manufacturing
+  process, aiming to revolutionize textile production with greater efficiency and
+  reduced waste.
+industries:
+- Fashion
+- Manufacturing
+- Robotics
+technologies:
+- Computer Vision
+- Robotics Control
+- Industrial Automation
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 3300000
+  last_round: Seed
+  investors: []

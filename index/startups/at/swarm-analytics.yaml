@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: swarm-analytics
+name: Swarm Analytics
+website: https://www.swarm-analytics.com/
+founded_year: 2018
+description: Edge AI solutions for traffic and smart city analytics.
+long_description: Swarm Analytics develops AI software that processes video data directly
+  on the camera (Edge AI), extracting insights for traffic management and smart cities
+  without transmitting sensitive video feeds.
+industries:
+- Smart Cities
+- IoT
+- GovTech
+technologies:
+- Edge Computing
+- Computer Vision
+headquarters:
+  city: Innsbruck
+  country_code: AT
+  region: Tyrol
+funding:
+  total_raised_usd: 0
+  last_round: Undisclosed
+  investors: []

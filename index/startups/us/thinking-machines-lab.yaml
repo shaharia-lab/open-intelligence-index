@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: thinking-machines-lab
+name: Thinking Machines Lab, Inc.
+website: https://thinkingmachines.ai
+founded_year: 2025
+description: Research and product company aiming to bridge the gap in understanding
+  frontier AI systems.
+long_description: Thinking Machines Lab is a research and product company aiming to
+  bridge the gap in understanding frontier AI systems. Their first major product,
+  'Tinker', is a tool designed to create custom frontier AI models, leveraging Low-Rank
+  Adaptation (LoRA) to allow researchers to focus on datasets and algorithms without
+  the complexity of infrastructure management.
+industries:
+- AI Research
+- Deep Tech
+technologies:
+- Low-Rank Adaptation (LoRA)
+- Frontier AI Models
+- Model Fine-tuning
+headquarters:
+  city: San Francisco
+  country_code: US
+  region: California
+funding:
+  total_raised_usd: 2000000000
+  last_round: Seed
+  investors:
+  - Andreessen Horowitz
+  - Nvidia
+  - AMD
+  - Cisco
+  - Albania Gov
+socials:
+  linkedin: https://www.linkedin.com/company/thinkingmachinesai
+  twitter: https://x.com/thinkymachines

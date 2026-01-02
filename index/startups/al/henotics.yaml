@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: henotics
+name: Henotics
+website: https://henotics.com
+founded_year: 2023
+description: Software consulting and development company providing strategic planning
+  and machine learning services.
+long_description: Henotics is a software consulting and development company that provides
+  a full range of services including strategic planning, data analytics, and machine
+  learning. They serve sectors including eCommerce, HealthCare, Education, and Fintech.
+industries:
+- eCommerce
+- HealthCare
+- Education
+- Fintech
+technologies:
+- Machine Learning
+- Chatbot Development
+- Data Analytics
+headquarters:
+  city: Tirana
+  country_code: AL

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: rochegrup-softwares
+name: RocheGrup Softwares SLU
+website: https://www.rochegrup-softwares.com
+founded_year: 2020
+description: Technology partner specializing in custom AI and Web3 application development.
+long_description: Based in Ordino, RocheGrup Softwares is a specialist engineering
+  firm that builds decentralized intelligence and custom AI solutions. They operate
+  as a global technology partner for entrepreneurs, offering 'CTO-as-a-service' and
+  deep expertise in building tailored software solutions for the finance, healthcare,
+  and retail sectors.
+industries:
+- Software Engineering
+- Web3
+- R&D
+technologies:
+- Python
+- Rust
+- AWS
+- Solana
+headquarters:
+  city: Ordino
+  country_code: AD
+socials:
+  linkedin: https://www.linkedin.com/company/rochegrup-softwares

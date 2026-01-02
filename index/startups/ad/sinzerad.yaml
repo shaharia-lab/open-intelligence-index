@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: sinzerad
+name: SinzerAD
+website: https://www.sinzerad.com
+founded_year: 2016
+description: Microsoft Azure partner specializing in cloud-based AI and digital transformation.
+long_description: SinzerAD specializes in Microsoft-based IT services, helping businesses
+  in Andorra adopt Azure's suite of cloud tools. They integrate AI, data analytics,
+  and application development into custom enterprise solutions, focusing on scalability
+  and high-security compliance within the Microsoft ecosystem.
+industries:
+- IT Services
+- Cloud Computing
+technologies:
+- Microsoft Azure
+- SharePoint
+- Cloud AI
+headquarters:
+  city: Encamp
+  country_code: AD
+socials:
+  linkedin: https://www.linkedin.com/company/sinzerad

@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: nxrt
+name: NXRT
+website: https://nxrt.io/en/
+founded_year: 2019
+description: Mixed Reality and AI simulation for immersive training.
+long_description: NXRT combines mixed reality hardware with AI simulation to create
+  immersive environments, primarily used for training and simulation in industrial
+  or automotive contexts.
+industries:
+- Automotive
+- EdTech
+- Simulation
+technologies:
+- Mixed Reality (MR)
+- Simulation AI
+headquarters:
+  city: Mödling
+  country_code: AT
+  region: Lower Austria
+funding:
+  total_raised_usd: 7200000
+  last_round: Series A
+  investors: []

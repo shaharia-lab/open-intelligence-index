@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: infrared-city
+name: Infrared.city
+website: https://infrared.city/
+founded_year: 2023
+description: AI platform for climate-resilient urban design.
+long_description: Infrared.city offers a platform that simplifies complex climate
+  models for urban architects using bespoke AI surrogates, enabling the design of
+  more sustainable and resilient cities.
+industries:
+- Architecture
+- CleanTech
+- Urban Planning
+technologies:
+- AI Surrogates
+- Climate Modeling
+- Simulation
+headquarters:
+  city: Vienna
+  country_code: AT
+funding:
+  total_raised_usd: 0
+  last_round: Undisclosed
+  investors: []

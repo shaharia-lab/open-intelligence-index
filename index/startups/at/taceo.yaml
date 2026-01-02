@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: taceo
+name: Taceo
+website: https://taceo.io
+founded_year: 2024
+description: Encrypted computing infrastructure for secure data collaboration.
+long_description: Taceo leverages multi-party computation (MPC) to allow AI systems
+  to process and verify sensitive data without ever decrypting it (plaintext exposure),
+  addressing critical privacy needs in cybersecurity and healthcare.
+industries:
+- Cybersecurity
+- Data Infrastructure
+- FinTech
+technologies:
+- Multi-Party Computation (MPC)
+- Encrypted Computing
+- Privacy-Preserving AI
+headquarters:
+  city: Graz
+  country_code: AT
+  region: Styria
+funding:
+  total_raised_usd: 6000000
+  last_round: Seed
+  investors: []
