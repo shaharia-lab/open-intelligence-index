@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: normain
+name: Normain
+website: https://normain.com
+founded_year: 2023
+description: An extractional AI platform designed to pull structured insights from
+  unstructured professional documents.
+long_description: Normain addresses 'regulatory sludge' by using Extractional AI to
+  pull verifiable insights from legal rulings, financial reports, and sustainability
+  filings. It uses strict constraints to prevent GenAI hallucinations, making it a
+  reliable tool for consultants and lawyers.
+industries:
+- Professional Services
+- Consulting
+- Legal Tech
+technologies:
+- Extractional AI
+- Agentic AI
+headquarters:
+  city: Stockholm
+  country_code: SE
+funding:
+  total_raised_usd: 711000
+  last_round: Seed
+  investors:
+  - Aligned Ventures
+  - Joel Hellermark

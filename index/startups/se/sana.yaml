@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: sana
+name: Sana
+website: https://sanalabs.com
+founded_year: 2016
+description: An enterprise knowledge platform that uses AI to index and synthesize
+  information across an organization's data stack.
+long_description: Formerly Sana Labs, the company provides a universal knowledge interface
+  that connects to tools like Slack, Google Drive, and GitHub. It uses LLMs to provide
+  cited, synthesized answers to employee queries. It was acquired by Workday in November
+  2025.
+industries:
+- Enterprise Software
+- Knowledge Management
+- EdTech
+technologies:
+- Natural Language Processing
+- Semantic Search
+- Large Language Models
+headquarters:
+  city: Stockholm
+  country_code: SE
+funding:
+  last_round: Acquisition
+  investors:
+  - EQT Ventures
+  - Menlo Ventures
+  - NEA
+open_source:
+  active: false

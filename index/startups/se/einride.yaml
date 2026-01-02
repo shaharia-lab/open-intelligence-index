@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: einride
+name: Einride
+website: https://www.einride.tech
+founded_year: 2016
+description: A leader in autonomous electric freight technology and digital movement
+  orchestration.
+long_description: Einride operates an intelligent operating system called Saga that
+  orchestrates fleets of electric and autonomous trucks. They utilize a 'Freight-Capacity-as-a-Service'
+  model to help shippers decarbonize. The company went public via a SPAC merger in
+  late 2025 at a $1.8 billion valuation.
+industries:
+- Logistics
+- Transportation
+- Autonomous Vehicles
+technologies:
+- Autonomous Driving
+- Computer Vision
+- Fleet Optimization AI
+headquarters:
+  city: Stockholm
+  country_code: SE
+funding:
+  total_raised_usd: 100000000
+  last_round: PIPE (SPAC)
+  investors:
+  - EQT Ventures
+  - Northzone
+  - Temasek
+open_source:
+  active: true
+  github_org: https://github.com/einride

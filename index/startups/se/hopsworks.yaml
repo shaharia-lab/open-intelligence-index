@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: hopsworks
+name: Hopsworks
+website: https://www.hopsworks.ai
+founded_year: 2017
+description: An operational AI lakehouse platform featuring the world's first open-source
+  feature store.
+long_description: Hopsworks provides a platform for managing data for both batch training
+  and real-time inference. Its core product is a Feature Store that serves as the
+  link between data engineering and data science, supporting frameworks like Spark,
+  Flink, and Pandas.
+industries:
+- MLOps
+- Data Infrastructure
+technologies:
+- Feature Store
+- Machine Learning
+- Data Lakehouse
+headquarters:
+  city: Stockholm
+  country_code: SE
+funding:
+  total_raised_usd: 13700000
+  last_round: Series A
+  investors:
+  - Industrifonden
+  - Inventure
+open_source:
+  active: true
+  github_org: https://github.com/logicalclocks

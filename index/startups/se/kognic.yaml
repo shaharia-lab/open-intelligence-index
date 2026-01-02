@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: kognic
+name: Kognic
+website: https://www.kognic.com
+founded_year: 2018
+description: A sensor fusion annotation platform for high-performance ADAS and autonomous
+  driving development.
+long_description: Formerly Annotell, Kognic provides a platform for sensor fusion
+  alignment, allowing engineers to visualize LiDAR, Radar, and Camera data simultaneously.
+  This is used to define 'ground truth' for training autonomous vehicles, focusing
+  on safety and certification for global OEMs.
+industries:
+- Automotive
+- Autonomous Vehicles
+technologies:
+- Sensor Fusion
+- Data Annotation
+- Computer Vision
+headquarters:
+  city: Gothenburg
+  country_code: SE
+funding:
+  total_raised_usd: 9500000
+  last_round: Series A Extension
+  investors:
+  - Metaplanet
+  - NordicNinja
