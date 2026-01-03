@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: kubeta
+name: Kubeta
+website: https://www.kubeta.ao
+founded_year: 2021
+description: Online learning and freelance services marketplace.
+long_description: Kubeta is a platform where professionals can monetize their skills
+  by teaching or offering services. It was the winner of the Unitel Go Challenge in
+  2023, recognized for its innovative approach to professional development.
+industries:
+- EdTech
+- Freelance Economy
+technologies:
+- Digital Platform
+headquarters:
+  city: Luanda
+  country_code: AO
+funding:
+  last_round: Grant

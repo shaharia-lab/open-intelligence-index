@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: kujo-tech-lab
+name: Kujo Tech Lab
+website: https://kujotechlab.com
+founded_year: 2022
+description: STEAM academy decentralizing tech education.
+long_description: Operating in Moxico, Kujo Tech Lab teaches robotics, IoT, and ML
+  basics to youth in rural areas, ensuring the AI revolution extends beyond the capital
+  city.
+industries:
+- EdTech
+- Robotics
+technologies:
+- Robotics
+- IoT
+headquarters:
+  city: Luena
+  country_code: AO
+  region: Moxico

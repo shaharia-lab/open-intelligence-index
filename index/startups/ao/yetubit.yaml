@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: yetubit
+name: YetuBit
+website: https://www.yetubit.com
+founded_year: 2016
+description: Cryptocurrency exchange and blockchain advocacy startup.
+long_description: YetuBit operates a cryptocurrency exchange and leads the Bitcoin
+  Angola community. It focuses on digital asset adoption for remittances and inflation
+  hedging, while advocating for favorable regulation in the Angolan market.
+industries:
+- Fintech
+- Blockchain
+technologies:
+- Blockchain
+- Cryptocurrency Exchange
+headquarters:
+  city: Luanda
+  country_code: AO

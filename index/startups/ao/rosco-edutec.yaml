@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: rosco-edutec
+name: Rosco Edutec
+website: https://www.edutech.ao
+founded_year: 2023
+description: Edtech startup creating interactive textbooks with AI support.
+long_description: Rosco Edutec develops 'ManAI', an intelligent assistant that helps
+  students navigate educational content via Natural Language Processing (NLP). It
+  is a graduate of the Founder Institute Luanda.
+industries:
+- EdTech
+technologies:
+- Natural Language Processing
+- AI Assistant (ManAI)
+headquarters:
+  city: Luanda
+  country_code: AO
+funding:
+  last_round: Pre-Seed

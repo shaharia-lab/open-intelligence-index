@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: tecnagro
+name: TecNagro
+website: https://tecnagro.ao
+founded_year: 2022
+description: Agritech startup using drones for precision agriculture and crop monitoring.
+long_description: TecNagro utilizes drone systems equipped with multispectral sensors
+  to map soil health and monitor crop vitality. Data is processed using ML algorithms
+  to predict harvest yields, identify pests, and optimize irrigation.
+industries:
+- Agritech
+- Drone Services
+technologies:
+- Drones
+- Computer Vision
+- Machine Learning
+headquarters:
+  city: Luanda
+  country_code: AO
+funding:
+  last_round: Grant

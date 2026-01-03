@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: cabship
+name: Cabship
+website: https://www.cabship.co.ao
+founded_year: 2009
+description: Logistics and supply chain management for the energy sector.
+long_description: Cabship operates in the Oil & Gas sector, using software enhanced
+  by AI to provide visibility into operations. It manages inventory and supply chains
+  for oil majors through industrial AI and dashboards.
+industries:
+- Logistics
+- Energy
+- Industrial AI
+technologies:
+- Industrial AI
+- Supply Chain Analytics
+headquarters:
+  city: Cabinda
+  country_code: AO
+  region: Cabinda
+socials:
+  linkedin: https://www.linkedin.com/company/cabship

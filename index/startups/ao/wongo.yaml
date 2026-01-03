@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: wongo
+name: Wongo
+website: https://www.wongo.co.ao
+founded_year: 2023
+description: Edtech focused on digital skills and AI training.
+long_description: Wongo empowers youth through technology education, specifically
+  in AI and digital entrepreneurship. It has developed 'VIDA', an AI avatar for low-connectivity
+  devices, and has expanded operations to Cape Verde.
+industries:
+- EdTech
+- Artificial Intelligence
+technologies:
+- AI Avatars
+- EdTech Platforms
+headquarters:
+  city: Luanda
+  country_code: AO

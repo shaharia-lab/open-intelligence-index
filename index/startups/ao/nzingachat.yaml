@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: nzingachat
+name: NzingaChat
+website: https://nzingachat.com
+founded_year: 2024
+description: WhatsApp-based AI assistant for document processing and web search.
+long_description: NzingaChat is a Generative AI native assistant that lives on WhatsApp.
+  It performs OCR on Multicaixa receipts, converts documents, and searches the web,
+  solving distribution friction by leveraging the most ubiquitous app in Angola.
+industries:
+- AI Services
+- Productivity
+technologies:
+- Generative AI
+- OCR
+- Natural Language Processing
+headquarters:
+  city: Luanda
+  country_code: AO

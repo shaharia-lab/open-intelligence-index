@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: bayqi
+name: BayQi
+website: https://www.bayqi.com
+founded_year: 2016
+description: Fintech and e-commerce super-app promoting financial inclusion.
+long_description: Licensed by the National Bank of Angola, BayQi creates a digital
+  wallet and e-commerce platform. It utilizes AI for fraud detection in payments and
+  recommendation engines to personalize the shopping experience.
+industries:
+- Fintech
+- E-commerce
+technologies:
+- Fraud Detection AI
+- Recommendation Engines
+headquarters:
+  city: Luanda
+  country_code: AO
+socials:
+  linkedin: https://www.linkedin.com/company/bayqi

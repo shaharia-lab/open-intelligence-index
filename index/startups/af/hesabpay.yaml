@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: hesabpay
+name: HesabPay
+website: https://hesab.com/
+founded_year: 2019
+description: Digital payments platform using blockchain and AI for humanitarian cash
+  transfers.
+long_description: HesabPay is Afghanistan's first interoperable digital payments platform,
+  built on the Algorand blockchain to ensure transparency and transaction finality.
+  It leverages transaction data and AI for credit scoring to build financial profiles
+  for unbanked users, facilitating humanitarian aid distribution in partnership with
+  organizations like the WFP.
+industries:
+- FinTech
+- Humanitarian Tech
+- Blockchain
+technologies:
+- Blockchain (Algorand)
+- Credit Scoring AI
+- Digital Identity
+headquarters:
+  city: Kabul
+  country_code: AF
+  region: Kabul
+funding:
+  last_round: Venture Round
+  investors:
+  - Algorand Foundation
+  - WFP Innovation Accelerator
+socials:
+  linkedin: https://www.linkedin.com/company/hesabpay
+  twitter: https://twitter.com/hesabpay

@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: saral-groups
+name: Saral Groups
+website: https://www.saralgroups.com
+founded_year: 2018
+description: Venture builder providing AI solutions for health and business.
+long_description: Saral Groups acts as a venture builder and technology consultancy.
+  It offers services like 'Saral Health' which uses AI for symptom tracking and provides
+  end-to-end support for startups, including software development and infrastructure
+  management.
+industries:
+- HealthTech
+- Consulting
+- Venture Building
+technologies:
+- Symptom Tracking AI
+- Business Automation
+headquarters:
+  city: Kabul
+  country_code: AF
+socials:
+  linkedin: https://www.linkedin.com/company/saral-groups
+  twitter: https://twitter.com/SaralGroups

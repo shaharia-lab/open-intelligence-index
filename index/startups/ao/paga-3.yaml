@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: paga-3
+name: Paga 3
+website: https://paga3.ao
+founded_year: 2020
+description: Buy Now, Pay Later (BNPL) service provider.
+long_description: Paga 3 allows immediate delivery of goods with deferred payment
+  by assessing repayment risk instantly. Their platform analyzes user profile data
+  and mobile money history to make automated credit decisions.
+industries:
+- Fintech
+- Payments
+technologies:
+- Risk Assessment Algorithms
+headquarters:
+  city: Luanda
+  country_code: AO
+funding:
+  last_round: Grant

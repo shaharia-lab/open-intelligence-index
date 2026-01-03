@@ -2,9 +2,9 @@
 
 | Country Code | Name                             | Continent     | Capital                   | Startup Index |
 |--------------|----------------------------------|---------------|---------------------------|---------------|
-| **AF**       | Afghanistan                      | Asia          | Kabul                     |               |
+| **AF**       | Afghanistan                      | Asia          | Kabul                     | ✅             |
 | **AL**       | Albania                          | Europe        | Tirana                    | ✅             |
-| **DZ**       | Algeria                          | Africa        | Algiers                   |               |
+| **DZ**       | Algeria                          | Africa        | Algiers                   | ✅             |
 | **AD**       | Andorra                          | Europe        | Andorra la Vella          | ✅             |
 | **AO**       | Angola                           | Africa        | Luanda                    |               |
 | **AG**       | Antigua and Barbuda              | North America | St. John's                |               |

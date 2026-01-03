@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: biorec
+name: Biorec
+founded_year: 2023
+description: Healthtech startup producing prosthetics from recycled plastic.
+long_description: Biorec models and produces orthopedic prosthetics and orthoses using
+  ocean-recycled plastic. The startup aims to promote mobility and social equality
+  by providing affordable solutions for people with disabilities.
+industries:
+- Healthtech
+- Sustainability
+technologies:
+- 3D Printing
+- Recycled Materials Processing
+headquarters:
+  city: Luanda
+  country_code: AO
+funding:
+  last_round: Grant
+website: https://www.menosfios.com/en/startup-biorec-apresenta-proteses-feitas-com-garrafas-de-plastico/

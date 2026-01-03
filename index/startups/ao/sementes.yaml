@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: sementes
+name: Sementes
+website: https://sementes.ao
+founded_year: 2024
+description: Crowdfunding platform for agricultural financing.
+long_description: Sementes connects investors with farmers. It relies on risk assessment
+  models to grade agricultural projects for investors, facilitating access to capital
+  for producers.
+industries:
+- Fintech
+- Agritech
+- Crowdfunding
+technologies:
+- Risk Assessment Models
+headquarters:
+  city: Luanda
+  country_code: AO

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: aseel
+name: Aseel
+website: https://aseelapp.com
+founded_year: 2018
+description: Impact technology platform for artisan e-commerce and AI-driven aid distribution.
+long_description: 'Aseel operates a dual-sided platform: ''Buy Good'' connects Afghan
+  artisans to global markets using recommendation algorithms, while ''Do Good'' uses
+  the proprietary AidOS system. AidOS leverages data analytics to track malnutrition,
+  manage logistics, and verify beneficiaries via Omid IDs to ensure efficient aid
+  delivery.'
+industries:
+- E-commerce
+- Humanitarian Tech
+- Logistics
+technologies:
+- Data Analytics
+- Recommendation Algorithms
+- Digital Identity (Omid ID)
+headquarters:
+  city: Kabul
+  country_code: AF
+  region: Kabul
+funding:
+  total_raised_usd: 850000
+  last_round: Pre-Seed
+  investors:
+  - Intbox Ventures
+  - Village Capital
+  - PHINEO Startups
+socials:
+  linkedin: https://www.linkedin.com/company/aseelapp
+  twitter: https://twitter.com/aseelapp

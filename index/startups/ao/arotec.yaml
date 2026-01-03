@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: arotec
+name: AROTEC
+website: http://www.arotec.ao
+founded_year: 2019
+description: Robotics and technology startup focused on STEM education.
+long_description: AROTEC produces the 'Arobot' kit and provides training in robotics
+  and AI. It partners with major corporations like Sinopec for educational programs.
+industries:
+- EdTech
+- Robotics
+technologies:
+- Robotics
+headquarters:
+  city: Luanda
+  country_code: AO
+socials:
+  linkedin: https://www.linkedin.com/company/arotecangola

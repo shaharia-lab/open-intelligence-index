@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: tupuca
+name: Tupuca
+website: https://www.tupuca.com
+founded_year: 2015
+description: On-demand delivery platform and super-app.
+long_description: Starting as food delivery, Tupuca utilizes data from thousands of
+  daily deliveries to optimize driver allocation and route planning, minimizing fuel
+  costs and delivery times in Luanda's complex traffic.
+industries:
+- Logistics
+- E-commerce
+technologies:
+- Route Optimization
+- Logistics Algorithms
+headquarters:
+  city: Luanda
+  country_code: AO
+funding:
+  last_round: Series A

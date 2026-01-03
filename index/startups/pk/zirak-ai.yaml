@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: zirak-ai
+name: Zirak AI
+website: https://github.com/zirak-ai
+founded_year: 2023
+description: Open-source research initiative for Pashto language NLP tools.
+long_description: Zirak AI is an academic and open-source initiative focused on preserving
+  low-resource languages like Pashto. It maintains the NLPashto toolkit, developing
+  foundational models like PsBERT, POS taggers, and sentiment analysis tools to enable
+  local-language AI applications.
+industries:
+- Research
+- Open Source
+- EdTech
+technologies:
+- Natural Language Processing (NLP)
+- PsBERT
+- Sentiment Analysis
+headquarters:
+  city: Peshawar
+  country_code: PK
+  region: Khyber Pakhtunkhwa
+open_source:
+  active: true
+  github_org: https://github.com/zirak-ai
+socials:
+  linkedin: https://www.linkedin.com/in/drijazulhaq

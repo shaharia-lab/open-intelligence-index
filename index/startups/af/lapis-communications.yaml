@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: lapis-communications
+name: Lapis Afghanistan
+website: https://lapis-communications.com
+founded_year: 2004
+description: Strategic communications firm developing educational AI chatbots.
+long_description: Lapis Afghanistan is expanding into EdTech by developing AI-driven
+  chatbots tailored for Dari and Pashto speakers. These tools are designed to assist
+  learners and support digital education initiatives using localized Large Language
+  Models.
+industries:
+- EdTech
+- Media
+- Communications
+technologies:
+- Chatbots
+- Natural Language Processing (NLP)
+- LLMs
+headquarters:
+  city: Kabul
+  country_code: AF
+  region: Kabul
+socials:
+  linkedin: https://www.linkedin.com/company/lapis-communications

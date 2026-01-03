@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: kilunga
+name: Kilunga
+website: https://www.linkedin.com/company/kilunga
+founded_year: 2023
+description: Agritech platform integrating the agribusiness value chain.
+long_description: Kilunga uses IoT sensors and satellite monitoring to track production.
+  It connects production data with logistics and sales to reduce post-harvest losses,
+  using AI to match harvest times with transport capacity.
+industries:
+- Agritech
+- Logistics
+technologies:
+- IoT
+- Satellite Monitoring
+- Matching Algorithms
+headquarters:
+  city: Luanda
+  country_code: AO
+socials:
+  linkedin: https://www.linkedin.com/company/kilunga

@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: netlinks
+name: NETLINKS Ltd
+website: https://netlinks.net
+founded_year: 2005
+description: Major ICT solutions provider specializing in ERP and digital infrastructure.
+long_description: NETLINKS is a veteran IT company in Afghanistan and an Odoo Gold
+  Partner. It provides enterprise resource planning (ERP) solutions with embedded
+  AI for inventory and HR management. It also operates Jobs.af, which uses matching
+  algorithms to connect job seekers with employers.
+industries:
+- GovTech
+- Enterprise Software
+- HR Tech
+technologies:
+- ERP Automation
+- Matching Algorithms
+- Natural Language Processing (NLP)
+headquarters:
+  city: Kabul
+  country_code: AF
+  region: Kabul
+socials:
+  linkedin: https://www.linkedin.com/company/netlinks-ltd
+  twitter: https://twitter.com/netlinks_ltd

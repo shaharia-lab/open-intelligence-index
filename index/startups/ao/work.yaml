@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: work
+name: Work
+website: https://work.ao
+founded_year: 2023
+description: Services marketplace for the gig economy.
+long_description: Winner of the Unitel Go Challenge 2024, Work is a marketplace connecting
+  users with local workers. It uses matching algorithms to streamline the informal
+  labor market and provide trust.
+industries:
+- Marketplace
+- Gig Economy
+technologies:
+- Matching Algorithms
+headquarters:
+  city: Luanda
+  country_code: AO
+funding:
+  last_round: Grant

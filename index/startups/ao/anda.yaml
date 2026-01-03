@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: anda
+name: Anda
+website: https://www.linkedin.com/company/anda-angola
+founded_year: 2022
+description: Mobility fintech offering asset financing for motorcycle taxi drivers.
+long_description: Anda transforms the informal 'mototaxi' market by providing a ride-to-own
+  model. Its proprietary ecosystem management software uses AI algorithms to create
+  alternative credit scores for drivers based on ride data and behavioral metrics,
+  enabling asset financing for the unbanked.
+industries:
+- Fintech
+- Mobility
+technologies:
+- Credit Scoring Algorithms
+- Predictive Analytics
+headquarters:
+  city: Luanda
+  country_code: AO
+funding:
+  total_raised_usd: 3400000
+  last_round: Seed
+  investors:
+  - Double Feather Partners
+socials:
+  linkedin: https://www.linkedin.com/company/anda-angola
