@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: cognaize
+name: Cognaize
+website: https://www.cognaize.com
+founded_year: 2018
+description: Hybrid intelligence platform for processing unstructured financial data.
+long_description: Cognaize specializes in financial document automation, extracting
+  data from complex agreements, filings, and reports. By combining deep learning with
+  a human-in-the-loop validation model, they ensure high accuracy and compliance for
+  banks and insurers handling large volumes of unstructured data.
+industries:
+- Fintech
+- Insurance
+technologies:
+- Deep Learning
+- Hybrid Intelligence
+- Neuro-symbolic AI
+headquarters:
+  city: New York
+  country_code: US
+  region: New York
+funding:
+  total_raised_usd: 20000000
+  last_round: Series A
+  investors:
+  - Argonautic Ventures
+  - Metaplanet
+  - Granatus Ventures
+open_source:
+  active: true
+  huggingface_org: https://huggingface.co/cognaize
+socials:
+  linkedin: https://www.linkedin.com/company/cognaize

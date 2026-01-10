@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: krisp
+name: Krisp
+website: https://krisp.ai
+founded_year: 2017
+description: On-device AI for noise cancellation and audio productivity in digital
+  communications.
+long_description: Krisp develops voice productivity software that utilizes deep neural
+  networks to remove background noise and echo from meetings in real-time. Operating
+  as Edge AI, the technology runs entirely on-device to ensure privacy and low latency.
+  Recent expansions include real-time accent conversion and AI-powered meeting summarization.
+industries:
+- Enterprise Software
+- Communication
+technologies:
+- Edge AI
+- Deep Neural Networks
+- NLP
+- Audio Signal Processing
+headquarters:
+  city: Berkeley
+  country_code: US
+  region: California
+funding:
+  total_raised_usd: 17500000
+  last_round: Series A
+  investors:
+  - RTP Global
+  - Storm Ventures
+socials:
+  linkedin: https://www.linkedin.com/company/krisp-ai
+  twitter: https://twitter.com/krispHQ

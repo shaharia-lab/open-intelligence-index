@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: picsart
+name: Picsart
+website: https://picsart.com
+founded_year: 2011
+description: A global creative platform powered by sophisticated AI for image and
+  video editing.
+long_description: Picsart is one of the world's most popular creative platforms, serving
+  over 150 million monthly active creators. The company has integrated Generative
+  AI throughout its suite, offering tools for AI-driven image generation, object removal,
+  style transfer, and video enhancement. While strategically headquartered in the
+  US, its largest engineering hub is in Yerevan.
+industries:
+- Media & Entertainment
+- Creative Tech
+technologies:
+- Generative AI
+- Computer Vision
+- Neuro-symbolic AI
+- Video Enhancement
+headquarters:
+  city: Miami
+  country_code: US
+  region: Florida
+funding:
+  total_raised_usd: 195000000
+  last_round: Series C
+  investors:
+  - SoftBank Vision Fund
+  - Sequoia Capital
+  - G Squared
+  - Tribe Capital
+socials:
+  linkedin: https://www.linkedin.com/company/picsart
+  twitter: https://twitter.com/picsart

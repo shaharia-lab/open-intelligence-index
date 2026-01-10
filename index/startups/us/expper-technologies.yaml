@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: expper-technologies
+name: Expper Technologies
+website: https://expper.tech
+founded_year: 2017
+description: Creators of 'Robin the Robot', an emotional AI companion for pediatric
+  healthcare.
+long_description: Expper Technologies develops Robin the Robot, which uses emotional
+  AI and associative memory to interact with children in hospitals. The robot helps
+  reduce stress and pain perception during medical procedures through peer-to-peer
+  interaction and cognitive behavioral techniques.
+industries:
+- Healthcare
+- Robotics
+technologies:
+- Emotional AI
+- Computer Vision
+- NLP
+headquarters:
+  city: Glendale
+  country_code: US
+  region: California
+funding:
+  total_raised_usd: 4000000
+  last_round: Seed
+  investors:
+  - SmartGateVC
+  - Formula VC
+  - Healthcare Equity Angels
+socials:
+  linkedin: https://www.linkedin.com/company/expper-technologies
+  twitter: https://twitter.com/ExpperTech

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: denovo-sciences
+name: Denovo Sciences
+website: https://denovosciences.com
+founded_year: 2020
+description: Deep tech drug discovery using reinforcement learning for de novo molecular
+  design.
+long_description: Denovo Sciences utilizes deep reinforcement learning to design entirely
+  new chemical structures from scratch for specific biological targets. Their technology
+  bypasses traditional chemical library screening, drastically accelerating preclinical
+  drug discovery and optimization.
+industries:
+- Biotech
+- Pharmaceuticals
+technologies:
+- Reinforcement Learning
+- De Novo Design
+- Molecular Modeling
+headquarters:
+  city: Yerevan
+  country_code: AM
+  region: Yerevan
+funding:
+  last_round: Seed
+  investors:
+  - Triple S Ventures
+  - Granatus Ventures
+socials:
+  linkedin: https://www.linkedin.com/company/denovo-sciences

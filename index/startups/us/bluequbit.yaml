@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: bluequbit
+name: BlueQubit
+website: https://www.bluequbit.io
+founded_year: 2022
+description: Quantum Software as a Service bridging classical GPU acceleration and
+  real quantum hardware.
+long_description: BlueQubit offers a platform that allows researchers to run quantum
+  algorithms on classical GPUs for simulation at 100x speeds, while also providing
+  access to real Quantum Processing Units (QPUs). They target complex optimization
+  problems in finance, biology, and materials science.
+industries:
+- Quantum Computing
+- Deep Tech
+technologies:
+- Quantum Simulation
+- GPU Acceleration
+- Quantum Machine Learning
+headquarters:
+  city: San Francisco
+  country_code: US
+  region: California
+funding:
+  total_raised_usd: 10000000
+  last_round: Seed
+  investors:
+  - Nyca Partners
+open_source:
+  active: true
+  github_org: https://github.com/BlueQubitDev
+socials:
+  linkedin: https://www.linkedin.com/company/bluequbit
+  twitter: https://twitter.com/BlueQubit

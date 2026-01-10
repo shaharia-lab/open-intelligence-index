@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: superannotate
+name: SuperAnnotate
+website: https://www.superannotate.com
+founded_year: 2018
+description: High-performance data infrastructure for fine-tuning LLMs and computer
+  vision models.
+long_description: SuperAnnotate provides a comprehensive platform for annotating,
+  managing, and curating training data for AI models. Originally focused on pixel-perfect
+  image segmentation, the company now supports multimodal data and Generative AI workflows
+  including RLHF (Reinforcement Learning from Human Feedback).
+industries:
+- Enterprise Software
+- Infrastructure
+technologies:
+- Computer Vision
+- NLP
+- Data Curation
+- RLHF
+headquarters:
+  city: Mountain View
+  country_code: US
+  region: California
+funding:
+  total_raised_usd: 53000000
+  last_round: Series B
+  investors:
+  - Socium Ventures
+  - NVIDIA
+  - Databricks Ventures
+open_source:
+  active: true
+  github_org: https://github.com/superannotateai
+  huggingface_org: https://huggingface.co/SuperAnnotate
+socials:
+  linkedin: https://www.linkedin.com/company/superannotate
+  twitter: https://twitter.com/SuperAnnotate

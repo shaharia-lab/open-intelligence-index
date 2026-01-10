@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: servicetitan
+name: ServiceTitan
+website: https://www.servicetitan.com
+founded_year: 2012
+description: The operating system for the trades, integrating AI to optimize home
+  service contracting.
+long_description: ServiceTitan provides a management platform for residential and
+  commercial service contractors. Their 'Titan Intelligence' division integrates AI
+  for predictive job pricing, autonomous voice agents for customer service, and automated
+  dispatching, effectively acting as a co-pilot for business owners in plumbing, HVAC,
+  and electrical trades.
+industries:
+- SaaS
+- Construction
+- Home Services
+technologies:
+- Predictive Analytics
+- NLP
+- AI Voice Agents
+- Machine Learning
+headquarters:
+  city: Glendale
+  country_code: US
+  region: California
+funding:
+  last_round: Late Stage
+  investors:
+  - Index Ventures
+  - Bessemer Venture Partners
+socials:
+  linkedin: https://www.linkedin.com/company/servicetitan
+  twitter: https://twitter.com/ServiceTitan

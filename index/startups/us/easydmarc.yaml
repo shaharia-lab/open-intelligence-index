@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: easydmarc
+name: EasyDMARC
+website: https://easydmarc.com
+founded_year: 2018
+description: Email security platform automating DMARC implementation and phishing
+  protection.
+long_description: EasyDMARC provides a B2B SaaS solution that simplifies email authentication
+  protocols like DMARC, SPF, and DKIM. The platform uses AI to analyze domain ecosystem
+  reports and identify anomalies, proactively protecting organizations from domain
+  spoofing and phishing attacks.
+industries:
+- Cybersecurity
+technologies:
+- Machine Learning
+- Predictive Analytics
+- Automation
+headquarters:
+  city: Dover
+  country_code: US
+  region: Delaware
+funding:
+  total_raised_usd: 22300000
+  last_round: Series A
+  investors:
+  - Radian Capital
+socials:
+  linkedin: https://www.linkedin.com/company/easydmarc
+  twitter: https://twitter.com/EasyDmarc

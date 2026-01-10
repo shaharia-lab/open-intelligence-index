@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: podcastle
+name: Podcastle
+website: https://podcastle.ai
+founded_year: 2020
+description: Collaborative audio and video creation platform with AI-driven studio
+  tools.
+long_description: Podcastle democratizes professional audio production through a web-based
+  studio. It leverages AI for noise removal ('Magic Dust'), generative voice cloning
+  ('Revoice'), and automated transcription, serving as a comprehensive workstation
+  for podcasters and marketers.
+industries:
+- Media & Entertainment
+- Creative Tech
+technologies:
+- Generative Voice
+- Audio Enhancement
+- Transcription AI
+headquarters:
+  city: Middletown
+  country_code: US
+  region: Delaware
+funding:
+  total_raised_usd: 22000000
+  last_round: Series A
+  investors:
+  - Mosaic Ventures
+  - RTP Global
+  - Point Nine
+socials:
+  linkedin: https://www.linkedin.com/company/podcastle
+  twitter: https://twitter.com/PodcastleAI
