@@ -6,7 +6,7 @@
 | **AL**       | Albania                          | Europe        | Tirana                    | ✅             |
 | **DZ**       | Algeria                          | Africa        | Algiers                   | ✅             |
 | **AD**       | Andorra                          | Europe        | Andorra la Vella          | ✅             |
-| **AO**       | Angola                           | Africa        | Luanda                    |               |
+| **AO**       | Angola                           | Africa        | Luanda                    | ✅             |
 | **AG**       | Antigua and Barbuda              | North America | St. John's                |               |
 | **AR**       | Argentina                        | South America | Buenos Aires              |               |
 | **AM**       | Armenia                          | Asia          | Yerevan                   |               |
