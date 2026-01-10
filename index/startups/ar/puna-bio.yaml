@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: puna-bio
+name: Puna Bio
+website: https://www.puna.bio/
+founded_year: 2020
+description: An AgTech startup developing biological inputs from extremophiles to
+  help crops thrive in degraded soils.
+long_description: Puna Bio leverages microorganisms discovered in the Puna desert
+  to develop biofertilizers that confer stress tolerance to crops like soy and wheat.
+  Their AI platform analyzes genomic data from these extremophiles to predict and
+  select the most effective strains for soil restoration and agricultural yield improvement.
+industries:
+- AgTech
+- Sustainability
+- Agriculture
+technologies:
+- Genomic Sequencing
+- Machine Learning
+headquarters:
+  city: Tucumán
+  country_code: AR
+  region: Tucumán
+funding:
+  investors:
+  - IndieBio
+  - GridX
+  - At One Ventures

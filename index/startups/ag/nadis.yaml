@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: nadis
+name: NADIS
+website: https://nadisapp.org
+founded_year: 2019
+description: A climate-tech startup using machine learning to track and predict Sargassum
+  seaweed influxes for coastal resilience.
+long_description: NADIS (Natural Disaster Information Systems) is a deep-tech startup
+  incubated at the Antigua and Barbuda Science and Innovation Park (ABSIP). It leverages
+  machine learning algorithms to fuse data from in-situ ocean buoys and satellite
+  imagery to predict the timing and location of Sargassum seaweed beaching events.
+  This allows the tourism and hospitality sectors to manage cleanup proactively.
+industries:
+- ClimateTech
+- Environmental Services
+- Deep Tech
+technologies:
+- Machine Learning
+- Big Data Analytics
+- Satellite Imagery Analysis
+- Data Fusion
+headquarters:
+  city: St. George
+  country_code: AG
+  region: Saint George
+open_source:
+  active: true
+  github_org: https://github.com/Cyber-Hawk-Solutions

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: project-jaguar
+name: Project Jaguar
+website: https://pjaguar.com/
+founded_year: 2016
+description: An EdTech startup democratizing education through a generative AI platform
+  specifically trained on Caribbean curricula.
+long_description: Project Jaguar began as a marketplace for 'Teacherpreneurs' and
+  has pivoted to become a generative AI platform. Their flagship product, Jaguar AI,
+  is fine-tuned on Caribbean Secondary Education Certificate (CSEC) and CAPE syllabi,
+  using 'Chain of Thought' prompting to act as a pedagogical tutor rather than just
+  an answer engine. It addresses the 'data bias' of generic LLMs by focusing on regional
+  educational contexts.
+industries:
+- EdTech
+- Education
+technologies:
+- Generative AI
+- Large Language Models
+- Natural Language Processing
+- Chain of Thought Prompting
+headquarters:
+  city: St. George
+  country_code: AG
+  region: Saint George
+funding:
+  total_raised_usd: 10000
+  last_round: Grant
+  investors:
+  - OECS-Republic Bank Business Model Competition
+socials:
+  linkedin: https://www.linkedin.com/company/project-jaguar
+  twitter: https://twitter.com/pjaguarapp

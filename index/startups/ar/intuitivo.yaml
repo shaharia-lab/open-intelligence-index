@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: intuitivo
+name: Intuitivo
+website: https://www.intuitivo.ai/
+founded_year: 2019
+description: A retail AI startup transforming existing coolers into autonomous points
+  of purchase using computer vision.
+long_description: Intuitivo uses low-cost cameras and on-device computer vision to
+  turn standard retail fridges into 'Autonomous Points of Purchase' (A-POP). The system
+  tracks product movements and processes transactions automatically, enabling frictionless
+  retail experiences without the high infrastructure costs of traditional autonomous
+  stores.
+industries:
+- Retail
+- Consumer Goods
+technologies:
+- Computer Vision
+- Edge Computing
+- Object Recognition
+headquarters:
+  city: Buenos Aires
+  country_code: AR
+  region: CABA
+funding:
+  investors:
+  - Mercado Libre
+  - Point72 Ventures

@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: dadli-yellow
+name: Dadli Yellow
+website: http://absip.gov.ag/startups/
+founded_year: 2020
+description: A biotech startup converting Sargassum seaweed into sustainable materials,
+  utilizing AI-driven supply chain data.
+long_description: Dadli Yellow focuses on the circular economy by converting invasive
+  Sargassum seaweed into eco-friendly textiles and materials. While primarily a biotech
+  entity, it is a critical node in the local AI ecosystem, relying on predictive data
+  from NADIS to optimize its supply chain and raw material harvesting. It emerged
+  from the government-backed DadliHack ecosystem.
+industries:
+- Biotech
+- Manufacturing
+- Sustainability
+technologies:
+- Supply Chain Optimization
+headquarters:
+  city: St. George
+  country_code: AG
+  region: Saint George

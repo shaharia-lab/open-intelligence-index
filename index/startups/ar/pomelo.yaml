@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: pomelo
+name: Pomelo
+website: https://pomelo.la/
+founded_year: 2021
+description: A Fintech infrastructure provider enabling companies to launch and scale
+  card businesses in Latin America.
+long_description: Pomelo offers a cloud-native card issuing and processing platform
+  that handles the technical and compliance 'plumbing' for fintechs. They utilize
+  advanced machine learning models for real-time fraud detection and credit risk management
+  across millions of transactions, significantly reducing the time-to-market for financial
+  products.
+industries:
+- Fintech
+- Infrastructure
+technologies:
+- Machine Learning
+- Cloud-native Infrastructure
+- Fraud Detection Algorithms
+headquarters:
+  city: Buenos Aires
+  country_code: AR
+  region: CABA
+funding:
+  total_raised_usd: 40000000
+  last_round: Series B
+  investors:
+  - Kaszek

@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: splight
+name: Splight
+website: https://splight-ai.com/
+founded_year: 2021
+description: An energy startup using AI to optimize power grid management and accelerate
+  renewable energy integration.
+long_description: Splight develops software that uses real-time telemetry and AI to
+  calculate the dynamic capacity of transmission lines (Dynamic Line Rating). This
+  reveals 'trapped' capacity in power grids that traditional static models miss, allowing
+  operators to transmit more renewable energy without needing to build new physical
+  infrastructure.
+industries:
+- Energy
+- ClimateTech
+- Infrastructure
+technologies:
+- Grid Management AI
+- Dynamic Line Rating
+- Real-Time Telemetry
+headquarters:
+  city: Buenos Aires
+  country_code: AR
+  region: CABA
+funding:
+  investors:
+  - EDP Ventures
+  - Draper Cygnus

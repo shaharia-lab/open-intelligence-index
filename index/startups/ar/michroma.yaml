@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: michroma
+name: Michroma
+website: https://www.michroma.co/
+founded_year: 2019
+description: A Biotech startup creating natural food ingredients using precision fermentation
+  and fungal-based colorants.
+long_description: Michroma utilizes bioinformatics and AI to screen and optimize fungal
+  strains that produce high-performance pigments, such as their flagship 'Red+' colorant.
+  By using precision fermentation, they offer a sustainable, clean-label alternative
+  to petroleum-derived or insect-based dyes, decoupling ingredient production from
+  traditional agriculture.
+industries:
+- Biotech
+- FoodTech
+- Sustainability
+technologies:
+- Precision Fermentation
+- Bioinformatics
+- Computer Vision
+headquarters:
+  city: Rosario
+  country_code: AR
+  region: Santa Fe
+funding:
+  last_round: Seed
+  investors:
+  - GridX
+  - IndieBio
+  - SOSV

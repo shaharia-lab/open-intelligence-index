@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: caribbean-web-design
+name: Caribbean Web Design
+website: https://www.caribbeanwebdesign.com/
+founded_year: 2014
+description: A digital agency offering AI application development and machine learning
+  integration services.
+long_description: Caribbean Web Design (associated with WebNYS) is a digital agency
+  that has expanded its portfolio to include AI and Machine Learning development.
+  Unlike product-focused startups, they function as a service provider, helping local
+  businesses in tourism and real estate integrate custom AI applications, chatbots,
+  and automation tools into their operations.
+industries:
+- Digital Services
+- Marketing
+- Software Development
+technologies:
+- Machine Learning Integration
+- AI Automation
+- Web Development
+headquarters:
+  city: St. John's
+  country_code: AG
+  region: Saint John

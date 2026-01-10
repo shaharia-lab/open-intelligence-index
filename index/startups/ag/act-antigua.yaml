@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: act-antigua
+name: Antigua Computer Technology (ACT)
+website: https://actantigua.com/
+founded_year: 1989
+description: The nation's largest technology infrastructure provider, now pivoting
+  to Industrial AI and Smart Factory solutions.
+long_description: Founded in 1989, ACT is a legacy IT provider that has strategically
+  pivoted toward the Fourth Industrial Revolution. The company deploys 'Smart Factory'
+  and Industrial IoT (IIoT) solutions, using AI for predictive maintenance on industrial
+  equipment and smart agriculture optimization. They operate local data centers to
+  provide sovereign cloud capabilities and partner with global leaders like HPE and
+  Microsoft.
+industries:
+- Industrial IoT
+- Infrastructure
+- Agriculture
+- Logistics
+technologies:
+- Industrial AI
+- Internet of Things (IoT)
+- Predictive Maintenance
+- Smart Factory
+headquarters:
+  city: St. John's
+  country_code: AG
+  region: Saint John
+socials:
+  linkedin: https://www.linkedin.com/company/actantigua

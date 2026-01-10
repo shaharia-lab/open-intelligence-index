@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: stamm
+name: Stämm
+website: https://www.stamm.bio/
+founded_year: 2016
+description: A Deep Tech startup reinventing biomanufacturing infrastructure through
+  microfluidics and AI-driven process control.
+long_description: Stämm uses microfluidics and 3D printing to create continuous-flow
+  'bioprocessors' that mimic nature's vascular systems. Their AI component models
+  fluid dynamics and cellular behavior in real-time to optimize cell growth and protein
+  production, aiming to drastically reduce the footprint and complexity of producing
+  biologics and cell therapies.
+industries:
+- Biotech
+- Deep Tech
+- Manufacturing
+technologies:
+- Microfluidics
+- Laminar Flow Bioreactors
+- AI-driven Process Control
+headquarters:
+  city: Buenos Aires
+  country_code: AR
+  region: CABA
+funding:
+  last_round: Series A
+  investors:
+  - Draper Cygnus
+  - GridX

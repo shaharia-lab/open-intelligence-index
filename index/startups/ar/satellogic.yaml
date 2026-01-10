@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/shaharia-lab/open-intelligence-index/main/schemas/startup.schema.json
+id: satellogic
+name: Satellogic
+website: https://satellogic.com/
+founded_year: 2010
+description: A global leader in high-resolution Earth Observation using Edge AI on
+  proprietary satellite constellations.
+long_description: Satellogic deploys a constellation of low-earth-orbit satellites
+  equipped with Edge AI, allowing for imagery processing directly in orbit. Their
+  technology identifies ships, detects fires, and monitors environmental changes with
+  30cm resolution, downlinking actionable insights to reduce bandwidth costs and latency
+  for global clients.
+industries:
+- SpaceTech
+- Environmental Monitoring
+- Logistics
+technologies:
+- Edge AI
+- Hyperspectral Imaging
+- Computer Vision
+headquarters:
+  city: Buenos Aires
+  country_code: AR
+  region: CABA
+socials:
+  linkedin: https://www.linkedin.com/company/satellogic
+  twitter: https://twitter.com/satellogic
